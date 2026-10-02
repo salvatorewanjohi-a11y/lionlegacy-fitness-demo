@@ -134,29 +134,55 @@ update_option( 'woocommerce_cod_settings', [
 // Products: from the shop's WhatsApp catalogue, built by catalogue/build.mjs.
 $products = json_decode( file_get_contents( __DIR__ . '/products.json' ), true );
 
-function llf_attach_images( $pid, $slug, $name ) {
+// The photos are all 720×900 webp files made by catalogue/build.mjs, so they are copied straight into
+// uploads and registered with their known size. (media_handle_sideload opens every image, which made
+// the demo take several minutes to build.)
+function llf_attach_images( $slug, $name ) {
 	$files = glob( "/wordpress/llf-images/$slug*.webp" ) ?: [];
 	$files = array_values( array_filter( $files, fn( $f ) => preg_match( '#/' . preg_quote( $slug, '#' ) . '(-\d+)?\.webp$#', $f ) ) );
 	// slug.webp is the main photo, then slug-2.webp, slug-3.webp…
 	$num = fn( $f ) => preg_match( '#-(\d+)\.webp$#', substr( $f, strlen( $slug ) ), $m ) ? (int) $m[1] : 1;
 	usort( $files, fn( $a, $b ) => $num( basename( $a ) ) <=> $num( basename( $b ) ) );
+	$up  = wp_upload_dir();
 	$ids = [];
 	foreach ( $files as $i => $file ) {
 		$base = basename( $file );
-		$tmp  = wp_tempnam( $base );
-		copy( $file, $tmp );
-		$att = media_handle_sideload( [ 'name' => $base, 'tmp_name' => $tmp ], $pid, $name . ( $i ? ' – photo ' . ( $i + 1 ) : '' ) );
-		if ( ! is_wp_error( $att ) ) {
-			update_post_meta( $att, '_wp_attachment_image_alt', $name );
-			$ids[] = $att;
+		$dest = trailingslashit( $up['path'] ) . $base;
+		if ( ! copy( $file, $dest ) ) {
+			continue;
 		}
+		$size = @getimagesize( $dest ) ?: [ 720, 900 ];
+		$att  = wp_insert_attachment( [
+			'post_mime_type' => 'image/webp',
+			'post_title'     => $name . ( $i ? ' – photo ' . ( $i + 1 ) : '' ),
+			'post_status'    => 'inherit',
+			'guid'           => trailingslashit( $up['url'] ) . $base,
+		], $dest, 0, false, false );
+		if ( ! $att ) {
+			continue;
+		}
+		wp_update_attachment_metadata( $att, [ 'width' => $size[0], 'height' => $size[1], 'file' => _wp_relative_upload_path( $dest ), 'sizes' => [], 'image_meta' => [] ] );
+		update_post_meta( $att, '_wp_attachment_image_alt', $name );
+		$ids[] = $att;
 	}
 	return $ids;
 }
 
+// Count terms once at the end instead of after every product.
+wp_defer_term_counting( true );
+// One transaction for the whole import: SQLite otherwise commits (and syncs to disk) after every query.
+wp_suspend_cache_invalidation( true );
+$wpdb->query( 'START TRANSACTION' );
+$started = microtime( true );
+$timing  = [ 'images' => 0, 'save' => 0, 'terms' => 0, 'options' => 0 ];
+$tick    = function ( $key, $t ) use ( &$timing ) { $timing[ $key ] += microtime( true ) - $t; return microtime( true ); };
+
 $by_slug = [];
 foreach ( $products as $order => $d ) {
 	$variable = ! empty( $d['variations'] );
+	$t        = microtime( true );
+	$imgs     = llf_attach_images( $d['slug'], $d['name'] );
+	$t        = $tick( 'images', $t );
 	$p = $variable ? new WC_Product_Variable() : new WC_Product_Simple();
 	$p->set_name( $d['name'] );
 	$p->set_slug( $d['slug'] );
@@ -203,14 +229,24 @@ foreach ( $products as $order => $d ) {
 			$p->set_stock_quantity( 10 ); // PLACEHOLDER stock.
 		}
 	}
+	if ( $imgs ) {
+		$p->set_image_id( $imgs[0] );
+		$p->set_gallery_image_ids( array_slice( $imgs, 1 ) );
+	}
+	if ( $variable ) {
+		// Open on the first option, so the price and photo show straight away.
+		$first = $d['variations'][0]['attrs'];
+		$p->set_default_attributes( array_combine( array_map( 'sanitize_title', array_keys( $first ) ), array_values( $first ) ) );
+	}
 	$pid = $p->save();
+	$t   = $tick( 'save', $t );
 	wp_set_object_terms( $pid, array_map( fn( $g ) => $goal_ids[ $g ], $d['goals'] ), $goal_tax );
 
 	if ( $d['brand'] && taxonomy_exists( 'product_brand' ) ) {
 		wp_set_object_terms( $pid, $d['brand'], 'product_brand' );
 	}
+	$t = $tick( 'terms', $t );
 
-	$imgs = llf_attach_images( $pid, $d['slug'], $d['name'] );
 	if ( $variable ) {
 		foreach ( $d['variations'] as $n => $v ) {
 			$var = new WC_Product_Variation();
@@ -225,31 +261,22 @@ foreach ( $products as $order => $d ) {
 			$var->save();
 		}
 		WC_Product_Variable::sync( $pid );
-		// Open on the first option, so the price and photo show straight away.
-		$first = $d['variations'][0]['attrs'];
-		$p     = wc_get_product( $pid );
-		$p->set_default_attributes( array_combine( array_map( 'sanitize_title', array_keys( $first ) ), array_values( $first ) ) );
-		$p->save();
 	}
-
-	if ( $imgs ) {
-		set_post_thumbnail( $pid, $imgs[0] );
-		if ( count( $imgs ) > 1 ) {
-			$p = wc_get_product( $pid );
-			$p->set_gallery_image_ids( array_slice( $imgs, 1 ) );
-			$p->save();
-		}
-	}
+	$tick( 'options', $t );
 	$by_slug[ $d['slug'] ] = $pid;
 }
 
 // "Frequently bought together" suggestions.
 foreach ( $products as $d ) {
 	if ( empty( $d['upsells'] ) ) continue;
-	$p = wc_get_product( $by_slug[ $d['slug'] ] );
-	$p->set_upsell_ids( array_values( array_filter( array_map( fn( $s ) => $by_slug[ $s ] ?? 0, $d['upsells'] ) ) ) );
-	$p->save();
+	// Written as meta directly: a full product save per product here doubled the import time.
+	update_post_meta( $by_slug[ $d['slug'] ], '_upsell_ids', array_values( array_filter( array_map( fn( $s ) => $by_slug[ $s ] ?? 0, $d['upsells'] ) ) ) );
 }
+
+$wpdb->query( 'COMMIT' );
+wp_suspend_cache_invalidation( false );
+wp_defer_term_counting( false );
+update_option( 'llf_setup_seconds', round( microtime( true ) - $started, 1 ) . ' ' . wp_json_encode( array_map( fn( $v ) => round( $v, 1 ), $timing ) ) );
 
 // Pages.
 function llf_page( $slug, $title, $content ) {
