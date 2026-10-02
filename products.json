@@ -1,0 +1,2886 @@
+[
+	{
+		"slug": "rule-1-whey-protein",
+		"name": "Rule 1 Whey Protein",
+		"cat": [
+			"proteins"
+		],
+		"brand": "Rule 1",
+		"type": "whey",
+		"badge": "2.28 kg · 65 servings",
+		"goals": [
+			"muscle-gain",
+			"recovery"
+		],
+		"featured": true,
+		"madeToOrder": false,
+		"short": "<p>A fast-digesting whey protein shake for building and repairing muscle after training.</p>",
+		"desc": "<p>A fast-digesting whey protein shake for building and repairing muscle after training.</p><p><strong>Rule 1 Whey Protein</strong> · 2.28 kg · 65 servings. Sold sealed and genuine at Lionlegacy Fitness, College House, Koinange Street, with countrywide delivery.</p>",
+		"specs": "Brand: Rule 1\nSize: 2.28 kg · 65 servings\nForm: Powder\nBest for: Muscle Gain, Recovery & Hydration",
+		"regular": "11400",
+		"upsells": [
+			"applied-nutrition-creatine-monohydrate",
+			"bodybuilder-shaker-bottle",
+			"animal-pak"
+		]
+	},
+	{
+		"slug": "muscletech-nitro-tech-ripped",
+		"name": "MuscleTech Nitro-Tech Ripped Whey Protein",
+		"cat": [
+			"proteins"
+		],
+		"brand": "MuscleTech",
+		"type": "leanwhey",
+		"badge": "1.82 kg · 41 servings",
+		"goals": [
+			"muscle-gain",
+			"fat-loss"
+		],
+		"featured": true,
+		"madeToOrder": false,
+		"short": "<p>A lean whey protein with fewer calories per scoop, for building muscle while you cut.</p>",
+		"desc": "<p>A lean whey protein with fewer calories per scoop, for building muscle while you cut.</p><p><strong>MuscleTech Nitro-Tech Ripped Whey Protein</strong> · 1.82 kg · 41 servings. Sold sealed and genuine at Lionlegacy Fitness, College House, Koinange Street, with countrywide delivery.</p>",
+		"specs": "Brand: MuscleTech\nSize: 1.82 kg · 41 servings\nForm: Powder\nBest for: Muscle Gain, Fat Loss",
+		"regular": "11700",
+		"upsells": [
+			"applied-nutrition-creatine-monohydrate",
+			"myprotein-l-carnitine",
+			"bodybuilder-shaker-bottle"
+		]
+	},
+	{
+		"slug": "cnp-professional-isolate",
+		"name": "CNP Professional Isolate Whey Protein",
+		"cat": [
+			"proteins"
+		],
+		"brand": "CNP",
+		"type": "isolate",
+		"badge": "1.8 kg · 60 servings",
+		"goals": [
+			"muscle-gain",
+			"fat-loss",
+			"recovery"
+		],
+		"featured": false,
+		"madeToOrder": false,
+		"short": "<p>A protein isolate: high protein per scoop with very little fat or sugar.</p>",
+		"desc": "<p>A protein isolate: high protein per scoop with very little fat or sugar.</p><p><strong>CNP Professional Isolate Whey Protein</strong> · 1.8 kg · 60 servings. Sold sealed and genuine at Lionlegacy Fitness, College House, Koinange Street, with countrywide delivery.</p>",
+		"specs": "Brand: CNP\nSize: 1.8 kg · 60 servings\nForm: Powder\nBest for: Muscle Gain, Fat Loss, Recovery & Hydration",
+		"regular": "11500",
+		"upsells": [
+			"applied-nutrition-creatine-monohydrate",
+			"bodybuilder-shaker-bottle",
+			"animal-pak"
+		]
+	},
+	{
+		"slug": "miami-vibes-miamisolate",
+		"name": "Miami Vibes Miamisolate Premium Isolate Blend",
+		"cat": [
+			"proteins"
+		],
+		"brand": "Miami Vibes",
+		"type": "isolate",
+		"badge": "2 kg · 66 servings",
+		"goals": [
+			"muscle-gain",
+			"fat-loss",
+			"recovery"
+		],
+		"featured": false,
+		"madeToOrder": false,
+		"short": "<p>A protein isolate: high protein per scoop with very little fat or sugar.</p>",
+		"desc": "<p>A protein isolate: high protein per scoop with very little fat or sugar.</p><p><strong>Miami Vibes Miamisolate Premium Isolate Blend</strong> · 2 kg · 66 servings. Sold sealed and genuine at Lionlegacy Fitness, College House, Koinange Street, with countrywide delivery.</p>",
+		"specs": "Brand: Miami Vibes\nSize: 2 kg · 66 servings\nForm: Powder\nBest for: Muscle Gain, Fat Loss, Recovery & Hydration",
+		"regular": "9700",
+		"upsells": [
+			"applied-nutrition-creatine-monohydrate",
+			"bodybuilder-shaker-bottle",
+			"animal-pak"
+		]
+	},
+	{
+		"slug": "applied-nutrition-iso-xp",
+		"name": "Applied Nutrition ISO-XP Whey Protein Isolate",
+		"cat": [
+			"proteins"
+		],
+		"brand": "Applied Nutrition",
+		"type": "isolate",
+		"badge": "1 kg · 40 servings",
+		"goals": [
+			"muscle-gain",
+			"fat-loss",
+			"recovery"
+		],
+		"featured": false,
+		"madeToOrder": false,
+		"short": "<p>A protein isolate: high protein per scoop with very little fat or sugar.</p>",
+		"desc": "<p>A protein isolate: high protein per scoop with very little fat or sugar.</p><p><strong>Applied Nutrition ISO-XP Whey Protein Isolate</strong> · 1 kg · 40 servings. Sold sealed and genuine at Lionlegacy Fitness, College House, Koinange Street, with countrywide delivery.</p>",
+		"specs": "Brand: Applied Nutrition\nSize: 1 kg · 40 servings\nForm: Powder\nBest for: Muscle Gain, Fat Loss, Recovery & Hydration",
+		"regular": "8800",
+		"upsells": [
+			"applied-nutrition-creatine-monohydrate",
+			"bodybuilder-shaker-bottle",
+			"animal-pak"
+		]
+	},
+	{
+		"slug": "applied-nutrition-diet-whey",
+		"name": "Applied Nutrition Diet Whey Protein",
+		"cat": [
+			"proteins"
+		],
+		"brand": "Applied Nutrition",
+		"type": "leanwhey",
+		"badge": "1.8 kg · 72 servings",
+		"goals": [
+			"muscle-gain",
+			"fat-loss"
+		],
+		"featured": false,
+		"madeToOrder": false,
+		"short": "<p>A lean whey protein with fewer calories per scoop, for building muscle while you cut.</p>",
+		"desc": "<p>A lean whey protein with fewer calories per scoop, for building muscle while you cut.</p><p><strong>Applied Nutrition Diet Whey Protein</strong> · 1.8 kg · 72 servings. Sold sealed and genuine at Lionlegacy Fitness, College House, Koinange Street, with countrywide delivery.</p>",
+		"specs": "Brand: Applied Nutrition\nSize: 1.8 kg · 72 servings\nForm: Powder\nBest for: Muscle Gain, Fat Loss",
+		"regular": "9100",
+		"upsells": [
+			"applied-nutrition-creatine-monohydrate",
+			"myprotein-l-carnitine",
+			"bodybuilder-shaker-bottle"
+		]
+	},
+	{
+		"slug": "muscle-rulz-whey-rulz-ripped",
+		"name": "Muscle Rulz Whey Rulz Ripped",
+		"cat": [
+			"proteins"
+		],
+		"brand": "Muscle Rulz",
+		"type": "leanwhey",
+		"badge": "1.8 kg · 53 servings",
+		"goals": [
+			"muscle-gain",
+			"fat-loss"
+		],
+		"featured": false,
+		"madeToOrder": false,
+		"short": "<p>A lean whey protein with fewer calories per scoop, for building muscle while you cut.</p>",
+		"desc": "<p>A lean whey protein with fewer calories per scoop, for building muscle while you cut.</p><p><strong>Muscle Rulz Whey Rulz Ripped</strong> · 1.8 kg · 53 servings. Sold sealed and genuine at Lionlegacy Fitness, College House, Koinange Street, with countrywide delivery.</p>",
+		"specs": "Brand: Muscle Rulz\nSize: 1.8 kg · 53 servings\nForm: Powder\nBest for: Muscle Gain, Fat Loss",
+		"regular": "7800",
+		"upsells": [
+			"applied-nutrition-creatine-monohydrate",
+			"myprotein-l-carnitine",
+			"bodybuilder-shaker-bottle"
+		]
+	},
+	{
+		"slug": "bodybuilder-premium-whey-protein",
+		"name": "Body Builder Premium Whey Protein",
+		"cat": [
+			"proteins"
+		],
+		"brand": "Body Builder",
+		"type": "whey",
+		"badge": "1.8 kg · 48 servings",
+		"goals": [
+			"muscle-gain",
+			"recovery"
+		],
+		"featured": false,
+		"madeToOrder": false,
+		"short": "<p>A fast-digesting whey protein shake for building and repairing muscle after training.</p>",
+		"desc": "<p>A fast-digesting whey protein shake for building and repairing muscle after training.</p><p><strong>Body Builder Premium Whey Protein</strong> · 1.8 kg · 48 servings. Sold sealed and genuine at Lionlegacy Fitness, College House, Koinange Street, with countrywide delivery.</p>",
+		"specs": "Brand: Body Builder\nSize: 1.8 kg · 48 servings\nForm: Powder\nBest for: Muscle Gain, Recovery & Hydration",
+		"regular": "8800",
+		"upsells": [
+			"applied-nutrition-creatine-monohydrate",
+			"bodybuilder-shaker-bottle",
+			"animal-pak"
+		]
+	},
+	{
+		"slug": "bpi-sports-whey-hd",
+		"name": "BPI Sports Whey HD Protein",
+		"cat": [
+			"proteins"
+		],
+		"brand": "BPI Sports",
+		"type": "whey",
+		"badge": "1.85 kg · 50 servings",
+		"goals": [
+			"muscle-gain",
+			"recovery"
+		],
+		"featured": false,
+		"madeToOrder": false,
+		"short": "<p>A fast-digesting whey protein shake for building and repairing muscle after training.</p>",
+		"desc": "<p>A fast-digesting whey protein shake for building and repairing muscle after training.</p><p><strong>BPI Sports Whey HD Protein</strong> · 1.85 kg · 50 servings. Sold sealed and genuine at Lionlegacy Fitness, College House, Koinange Street, with countrywide delivery.</p>",
+		"specs": "Brand: BPI Sports\nSize: 1.85 kg · 50 servings\nForm: Powder\nBest for: Muscle Gain, Recovery & Hydration",
+		"regular": "7800",
+		"upsells": [
+			"applied-nutrition-creatine-monohydrate",
+			"bodybuilder-shaker-bottle",
+			"animal-pak"
+		]
+	},
+	{
+		"slug": "musclemeds-carnivor-beef-protein",
+		"name": "MuscleMeds Carnivor Hydrolyzed Beef Protein Isolate",
+		"cat": [
+			"proteins"
+		],
+		"brand": "MuscleMeds",
+		"type": "isolate",
+		"badge": "4.19 lb",
+		"goals": [
+			"muscle-gain",
+			"fat-loss",
+			"recovery"
+		],
+		"featured": false,
+		"madeToOrder": false,
+		"short": "<p>A protein isolate: high protein per scoop with very little fat or sugar.</p>",
+		"desc": "<p>A protein isolate: high protein per scoop with very little fat or sugar.</p><p><strong>MuscleMeds Carnivor Hydrolyzed Beef Protein Isolate</strong> · 4.19 lb. Sold sealed and genuine at Lionlegacy Fitness, College House, Koinange Street, with countrywide delivery.</p>",
+		"specs": "Brand: MuscleMeds\nSize: 4.19 lb\nForm: Powder\nBest for: Muscle Gain, Fat Loss, Recovery & Hydration",
+		"regular": "10000",
+		"upsells": [
+			"applied-nutrition-creatine-monohydrate",
+			"bodybuilder-shaker-bottle",
+			"animal-pak"
+		]
+	},
+	{
+		"slug": "applied-nutrition-casein-protein",
+		"name": "Applied Nutrition 100% Casein Protein",
+		"cat": [
+			"proteins"
+		],
+		"brand": "Applied Nutrition",
+		"type": "casein",
+		"badge": "1.8 kg · 60 servings",
+		"goals": [
+			"muscle-gain",
+			"recovery"
+		],
+		"featured": false,
+		"madeToOrder": false,
+		"short": "<p>Slow-digesting protein, made to be taken before bed so your muscles are fed overnight.</p>",
+		"desc": "<p>Slow-digesting protein, made to be taken before bed so your muscles are fed overnight.</p><p><strong>Applied Nutrition 100% Casein Protein</strong> · 1.8 kg · 60 servings. Sold sealed and genuine at Lionlegacy Fitness, College House, Koinange Street, with countrywide delivery.</p>",
+		"specs": "Brand: Applied Nutrition\nSize: 1.8 kg · 60 servings\nForm: Powder\nBest for: Muscle Gain, Recovery & Hydration",
+		"upsells": [
+			"applied-nutrition-creatine-monohydrate",
+			"bodybuilder-shaker-bottle",
+			"animal-pak"
+		],
+		"attributes": [
+			{
+				"name": "Flavour",
+				"options": [
+					"Strawberry Cream",
+					"Vanilla Cream"
+				]
+			}
+		],
+		"variations": [
+			{
+				"attrs": {
+					"Flavour": "Strawberry Cream"
+				},
+				"regular": 9000,
+				"price": 9000,
+				"img": 0
+			},
+			{
+				"attrs": {
+					"Flavour": "Vanilla Cream"
+				},
+				"regular": 9000,
+				"price": 9000,
+				"img": 1
+			}
+		]
+	},
+	{
+		"slug": "applied-nutrition-endurance-protein-recovery",
+		"name": "Applied Nutrition Endurance Protein Recovery",
+		"cat": [
+			"proteins"
+		],
+		"brand": "Applied Nutrition",
+		"type": "recoveryshake",
+		"badge": "1.5 kg · 30 servings",
+		"goals": [
+			"recovery",
+			"endurance"
+		],
+		"featured": false,
+		"madeToOrder": false,
+		"short": "<p>Protein with carbs and electrolytes, for recovery after long or hard sessions.</p>",
+		"desc": "<p>Protein with carbs and electrolytes, for recovery after long or hard sessions.</p><p><strong>Applied Nutrition Endurance Protein Recovery</strong> · 1.5 kg · 30 servings. Sold sealed and genuine at Lionlegacy Fitness, College House, Koinange Street, with countrywide delivery.</p>",
+		"specs": "Brand: Applied Nutrition\nSize: 1.5 kg · 30 servings\nForm: Powder\nBest for: Recovery & Hydration, Endurance & Energy",
+		"regular": "5400",
+		"upsells": [
+			"applied-nutrition-creatine-monohydrate",
+			"bodybuilder-shaker-bottle",
+			"animal-pak"
+		]
+	},
+	{
+		"slug": "musclemeds-carnivor-mass",
+		"name": "MuscleMeds Carnivor Mass Beef Protein Gainer",
+		"cat": [
+			"proteins"
+		],
+		"brand": "MuscleMeds",
+		"type": "gainer",
+		"badge": "2.67 kg",
+		"goals": [
+			"muscle-gain"
+		],
+		"featured": true,
+		"madeToOrder": false,
+		"short": "<p>A high-calorie mass gainer for hard gainers who struggle to eat enough to grow.</p>",
+		"desc": "<p>A high-calorie mass gainer for hard gainers who struggle to eat enough to grow.</p><p><strong>MuscleMeds Carnivor Mass Beef Protein Gainer</strong> · 2.67 kg. Sold sealed and genuine at Lionlegacy Fitness, College House, Koinange Street, with countrywide delivery.</p>",
+		"specs": "Brand: MuscleMeds\nSize: 2.67 kg\nForm: Powder\nBest for: Muscle Gain",
+		"regular": "8200",
+		"upsells": [
+			"kevin-levrone-gold-creatine",
+			"bodybuilder-shaker-bottle",
+			"mega-sport-amino-hardcore"
+		]
+	},
+	{
+		"slug": "labrada-muscle-mass-gainer",
+		"name": "Labrada Muscle Mass Gainer",
+		"cat": [
+			"proteins"
+		],
+		"brand": "Labrada",
+		"type": "gainer",
+		"badge": "2.72 kg · 8 servings",
+		"goals": [
+			"muscle-gain"
+		],
+		"featured": false,
+		"madeToOrder": false,
+		"short": "<p>A high-calorie mass gainer for hard gainers who struggle to eat enough to grow.</p>",
+		"desc": "<p>A high-calorie mass gainer for hard gainers who struggle to eat enough to grow.</p><p><strong>Labrada Muscle Mass Gainer</strong> · 2.72 kg · 8 servings. Sold sealed and genuine at Lionlegacy Fitness, College House, Koinange Street, with countrywide delivery.</p>",
+		"specs": "Brand: Labrada\nSize: 2.72 kg · 8 servings\nForm: Powder\nBest for: Muscle Gain",
+		"regular": "8000",
+		"upsells": [
+			"kevin-levrone-gold-creatine",
+			"bodybuilder-shaker-bottle",
+			"mega-sport-amino-hardcore"
+		]
+	},
+	{
+		"slug": "mutant-mass-extreme-2500",
+		"name": "Mutant Mass Extreme 2500",
+		"cat": [
+			"proteins"
+		],
+		"brand": "Mutant",
+		"type": "gainer",
+		"badge": "2.72 kg · 10 servings",
+		"goals": [
+			"muscle-gain"
+		],
+		"featured": false,
+		"madeToOrder": false,
+		"short": "<p>A high-calorie mass gainer for hard gainers who struggle to eat enough to grow.</p>",
+		"desc": "<p>A high-calorie mass gainer for hard gainers who struggle to eat enough to grow.</p><p><strong>Mutant Mass Extreme 2500</strong> · 2.72 kg · 10 servings. Sold sealed and genuine at Lionlegacy Fitness, College House, Koinange Street, with countrywide delivery.</p>",
+		"specs": "Brand: Mutant\nSize: 2.72 kg · 10 servings\nForm: Powder\nBest for: Muscle Gain",
+		"regular": "7000",
+		"upsells": [
+			"kevin-levrone-gold-creatine",
+			"bodybuilder-shaker-bottle",
+			"mega-sport-amino-hardcore"
+		]
+	},
+	{
+		"slug": "applied-nutrition-critical-mass",
+		"name": "Applied Nutrition Critical Mass High-Calorie Gainer",
+		"cat": [
+			"proteins"
+		],
+		"brand": "Applied Nutrition",
+		"type": "gainer",
+		"badge": "6 kg · 100 servings",
+		"goals": [
+			"muscle-gain"
+		],
+		"featured": false,
+		"madeToOrder": false,
+		"short": "<p>A high-calorie mass gainer for hard gainers who struggle to eat enough to grow.</p>",
+		"desc": "<p>A high-calorie mass gainer for hard gainers who struggle to eat enough to grow.</p><p><strong>Applied Nutrition Critical Mass High-Calorie Gainer</strong> · 6 kg · 100 servings. Sold sealed and genuine at Lionlegacy Fitness, College House, Koinange Street, with countrywide delivery.</p>",
+		"specs": "Brand: Applied Nutrition\nSize: 6 kg · 100 servings\nForm: Powder\nBest for: Muscle Gain",
+		"regular": "10000",
+		"upsells": [
+			"kevin-levrone-gold-creatine",
+			"bodybuilder-shaker-bottle",
+			"mega-sport-amino-hardcore"
+		]
+	},
+	{
+		"slug": "ronnie-coleman-king-mass-xl",
+		"name": "Ronnie Coleman Signature Series King Mass XL",
+		"cat": [
+			"proteins"
+		],
+		"brand": "Ronnie Coleman",
+		"type": "gainer",
+		"badge": "6.75 kg",
+		"goals": [
+			"muscle-gain"
+		],
+		"featured": false,
+		"madeToOrder": false,
+		"short": "<p>A high-calorie mass gainer for hard gainers who struggle to eat enough to grow.</p>",
+		"desc": "<p>A high-calorie mass gainer for hard gainers who struggle to eat enough to grow.</p><p><strong>Ronnie Coleman Signature Series King Mass XL</strong> · 6.75 kg. Sold sealed and genuine at Lionlegacy Fitness, College House, Koinange Street, with countrywide delivery.</p>",
+		"specs": "Brand: Ronnie Coleman\nSize: 6.75 kg\nForm: Powder\nBest for: Muscle Gain",
+		"regular": "11000",
+		"upsells": [
+			"kevin-levrone-gold-creatine",
+			"bodybuilder-shaker-bottle",
+			"mega-sport-amino-hardcore"
+		]
+	},
+	{
+		"slug": "kevin-levrone-anabolic-mass",
+		"name": "Kevin Levrone Anabolic Mass",
+		"cat": [
+			"proteins"
+		],
+		"brand": "Kevin Levrone",
+		"type": "gainer",
+		"badge": "7 kg",
+		"goals": [
+			"muscle-gain"
+		],
+		"featured": false,
+		"madeToOrder": false,
+		"short": "<p>A high-calorie mass gainer for hard gainers who struggle to eat enough to grow.</p>",
+		"desc": "<p>A high-calorie mass gainer for hard gainers who struggle to eat enough to grow.</p><p><strong>Kevin Levrone Anabolic Mass</strong> · 7 kg. Sold sealed and genuine at Lionlegacy Fitness, College House, Koinange Street, with countrywide delivery.</p>",
+		"specs": "Brand: Kevin Levrone\nSize: 7 kg\nForm: Powder\nBest for: Muscle Gain",
+		"regular": "11200",
+		"upsells": [
+			"kevin-levrone-gold-creatine",
+			"bodybuilder-shaker-bottle",
+			"mega-sport-amino-hardcore"
+		]
+	},
+	{
+		"slug": "applied-nutrition-critical-oats",
+		"name": "Applied Nutrition Critical Oats Protein Porridge",
+		"cat": [
+			"proteins"
+		],
+		"brand": "Applied Nutrition",
+		"type": "food",
+		"badge": "3 kg · 50 servings",
+		"goals": [
+			"muscle-gain"
+		],
+		"featured": false,
+		"madeToOrder": false,
+		"short": "<p>A high-protein food that makes hitting your daily protein easier.</p>",
+		"desc": "<p>A high-protein food that makes hitting your daily protein easier.</p><p><strong>Applied Nutrition Critical Oats Protein Porridge</strong> · 3 kg · 50 servings. Sold sealed and genuine at Lionlegacy Fitness, College House, Koinange Street, with countrywide delivery.</p>",
+		"specs": "Brand: Applied Nutrition\nSize: 3 kg · 50 servings\nForm: Powder\nBest for: Muscle Gain",
+		"regular": "9000",
+		"upsells": [
+			"applied-nutrition-creatine-monohydrate",
+			"bodybuilder-shaker-bottle",
+			"animal-pak"
+		]
+	},
+	{
+		"slug": "bodybuilder-protein-cookie-dough",
+		"name": "Body Builder Protein Cookie Dough",
+		"cat": [
+			"proteins"
+		],
+		"brand": "Body Builder",
+		"type": "food",
+		"badge": "525 g · 25 servings",
+		"goals": [
+			"muscle-gain"
+		],
+		"featured": false,
+		"madeToOrder": false,
+		"short": "<p>A high-protein food that makes hitting your daily protein easier.</p>",
+		"desc": "<p>A high-protein food that makes hitting your daily protein easier.</p><p><strong>Body Builder Protein Cookie Dough</strong> · 525 g · 25 servings. Sold sealed and genuine at Lionlegacy Fitness, College House, Koinange Street, with countrywide delivery.</p>",
+		"specs": "Brand: Body Builder\nSize: 525 g · 25 servings\nForm: Powder\nBest for: Muscle Gain",
+		"regular": "7300",
+		"upsells": [
+			"applied-nutrition-creatine-monohydrate",
+			"bodybuilder-shaker-bottle",
+			"animal-pak"
+		]
+	},
+	{
+		"slug": "applied-nutrition-creatine-monohydrate",
+		"name": "Applied Nutrition Creatine Monohydrate Micronized",
+		"cat": [
+			"creatine-pre"
+		],
+		"brand": "Applied Nutrition",
+		"type": "creatine",
+		"badge": "250 g · 50 servings",
+		"goals": [
+			"muscle-gain",
+			"strength"
+		],
+		"featured": true,
+		"madeToOrder": false,
+		"short": "<p>Creatine helps you push out extra reps and build strength and muscle over time.</p>",
+		"desc": "<p>Creatine helps you push out extra reps and build strength and muscle over time.</p><p><strong>Applied Nutrition Creatine Monohydrate Micronized</strong> · 250 g · 50 servings. Sold sealed and genuine at Lionlegacy Fitness, College House, Koinange Street, with countrywide delivery.</p>",
+		"specs": "Brand: Applied Nutrition\nSize: 250 g · 50 servings\nForm: Powder\nBest for: Muscle Gain, Strength & Power",
+		"upsells": [
+			"rule-1-whey-protein",
+			"cellucor-c4-original",
+			"bodybuilder-shaker-bottle"
+		],
+		"attributes": [
+			{
+				"name": "Flavour",
+				"options": [
+					"Unflavoured",
+					"Flavoured"
+				]
+			}
+		],
+		"variations": [
+			{
+				"attrs": {
+					"Flavour": "Unflavoured"
+				},
+				"regular": 3300,
+				"price": 3300,
+				"img": 0
+			},
+			{
+				"attrs": {
+					"Flavour": "Flavoured"
+				},
+				"regular": 3700,
+				"price": 3700,
+				"img": 2
+			}
+		]
+	},
+	{
+		"slug": "kevin-levrone-gold-creatine",
+		"name": "Kevin Levrone Gold Creatine Monohydrate",
+		"cat": [
+			"creatine-pre"
+		],
+		"brand": "Kevin Levrone",
+		"type": "creatine",
+		"badge": "500 g · 100 servings",
+		"goals": [
+			"muscle-gain",
+			"strength"
+		],
+		"featured": false,
+		"madeToOrder": false,
+		"short": "<p>Creatine helps you push out extra reps and build strength and muscle over time.</p>",
+		"desc": "<p>Creatine helps you push out extra reps and build strength and muscle over time.</p><p><strong>Kevin Levrone Gold Creatine Monohydrate</strong> · 500 g · 100 servings. Sold sealed and genuine at Lionlegacy Fitness, College House, Koinange Street, with countrywide delivery.</p>",
+		"specs": "Brand: Kevin Levrone\nSize: 500 g · 100 servings\nForm: Powder\nBest for: Muscle Gain, Strength & Power",
+		"regular": "4200",
+		"upsells": [
+			"rule-1-whey-protein",
+			"cellucor-c4-original",
+			"bodybuilder-shaker-bottle"
+		]
+	},
+	{
+		"slug": "muscletech-platinum-creatine",
+		"name": "MuscleTech Platinum 100% Creatine Monohydrate",
+		"cat": [
+			"creatine-pre"
+		],
+		"brand": "MuscleTech",
+		"type": "creatine",
+		"badge": "400 g · 80 servings",
+		"goals": [
+			"muscle-gain",
+			"strength"
+		],
+		"featured": false,
+		"madeToOrder": false,
+		"short": "<p>Creatine helps you push out extra reps and build strength and muscle over time.</p>",
+		"desc": "<p>Creatine helps you push out extra reps and build strength and muscle over time.</p><p><strong>MuscleTech Platinum 100% Creatine Monohydrate</strong> · 400 g · 80 servings. Sold sealed and genuine at Lionlegacy Fitness, College House, Koinange Street, with countrywide delivery.</p>",
+		"specs": "Brand: MuscleTech\nSize: 400 g · 80 servings\nForm: Powder\nBest for: Muscle Gain, Strength & Power",
+		"regular": "5000",
+		"upsells": [
+			"rule-1-whey-protein",
+			"cellucor-c4-original",
+			"bodybuilder-shaker-bottle"
+		]
+	},
+	{
+		"slug": "enhanced-creatine-monohydrate",
+		"name": "Enhanced Creatine Monohydrate",
+		"cat": [
+			"creatine-pre"
+		],
+		"brand": "Enhanced Labs",
+		"type": "creatine",
+		"badge": "300 g · 60 servings",
+		"goals": [
+			"muscle-gain",
+			"strength"
+		],
+		"featured": false,
+		"madeToOrder": false,
+		"short": "<p>Creatine helps you push out extra reps and build strength and muscle over time.</p>",
+		"desc": "<p>Creatine helps you push out extra reps and build strength and muscle over time.</p><p><strong>Enhanced Creatine Monohydrate</strong> · 300 g · 60 servings. Sold sealed and genuine at Lionlegacy Fitness, College House, Koinange Street, with countrywide delivery.</p>",
+		"specs": "Brand: Enhanced Labs\nSize: 300 g · 60 servings\nForm: Powder\nBest for: Muscle Gain, Strength & Power",
+		"regular": "3000",
+		"upsells": [
+			"rule-1-whey-protein",
+			"cellucor-c4-original",
+			"bodybuilder-shaker-bottle"
+		]
+	},
+	{
+		"slug": "ronnie-coleman-creatine-xs",
+		"name": "Ronnie Coleman Signature Series Creatine-XS",
+		"cat": [
+			"creatine-pre"
+		],
+		"brand": "Ronnie Coleman",
+		"type": "creatine",
+		"badge": "120 servings",
+		"goals": [
+			"muscle-gain",
+			"strength"
+		],
+		"featured": false,
+		"madeToOrder": false,
+		"short": "<p>Creatine helps you push out extra reps and build strength and muscle over time.</p>",
+		"desc": "<p>Creatine helps you push out extra reps and build strength and muscle over time.</p><p><strong>Ronnie Coleman Signature Series Creatine-XS</strong> · 120 servings. Sold sealed and genuine at Lionlegacy Fitness, College House, Koinange Street, with countrywide delivery.</p>",
+		"specs": "Brand: Ronnie Coleman\nSize: 120 servings\nForm: Powder\nBest for: Muscle Gain, Strength & Power",
+		"regular": "3000",
+		"upsells": [
+			"rule-1-whey-protein",
+			"cellucor-c4-original",
+			"bodybuilder-shaker-bottle"
+		]
+	},
+	{
+		"slug": "bodybuilder-pure-creatine-5000",
+		"name": "Body Builder Pure Creatine 5000 mg",
+		"cat": [
+			"creatine-pre"
+		],
+		"brand": "Body Builder",
+		"type": "creatine",
+		"badge": "Unflavoured · 100 servings",
+		"goals": [
+			"muscle-gain",
+			"strength"
+		],
+		"featured": false,
+		"madeToOrder": false,
+		"short": "<p>Creatine helps you push out extra reps and build strength and muscle over time.</p>",
+		"desc": "<p>Creatine helps you push out extra reps and build strength and muscle over time.</p><p><strong>Body Builder Pure Creatine 5000 mg</strong> · Unflavoured · 100 servings. Sold sealed and genuine at Lionlegacy Fitness, College House, Koinange Street, with countrywide delivery.</p>",
+		"specs": "Brand: Body Builder\nSize: Unflavoured · 100 servings\nForm: Powder\nBest for: Muscle Gain, Strength & Power",
+		"regular": "4200",
+		"upsells": [
+			"rule-1-whey-protein",
+			"cellucor-c4-original",
+			"bodybuilder-shaker-bottle"
+		]
+	},
+	{
+		"slug": "basic-supplements-creatine-1kg",
+		"name": "Basic Supplements Creatine Monohydrate Micronized",
+		"cat": [
+			"creatine-pre"
+		],
+		"brand": "Basic Supplements",
+		"type": "creatine",
+		"badge": "1 kg",
+		"goals": [
+			"muscle-gain",
+			"strength"
+		],
+		"featured": false,
+		"madeToOrder": false,
+		"short": "<p>Creatine helps you push out extra reps and build strength and muscle over time.</p>",
+		"desc": "<p>Creatine helps you push out extra reps and build strength and muscle over time.</p><p><strong>Basic Supplements Creatine Monohydrate Micronized</strong> · 1 kg. Sold sealed and genuine at Lionlegacy Fitness, College House, Koinange Street, with countrywide delivery.</p>",
+		"specs": "Brand: Basic Supplements\nSize: 1 kg\nForm: Powder\nBest for: Muscle Gain, Strength & Power",
+		"regular": "5700",
+		"upsells": [
+			"rule-1-whey-protein",
+			"cellucor-c4-original",
+			"bodybuilder-shaker-bottle"
+		]
+	},
+	{
+		"slug": "weider-pure-creatine",
+		"name": "Weider Pure Creatine",
+		"cat": [
+			"creatine-pre"
+		],
+		"brand": "Weider",
+		"type": "creatine",
+		"badge": "600 g",
+		"goals": [
+			"muscle-gain",
+			"strength"
+		],
+		"featured": false,
+		"madeToOrder": false,
+		"short": "<p>Creatine helps you push out extra reps and build strength and muscle over time.</p>",
+		"desc": "<p>Creatine helps you push out extra reps and build strength and muscle over time.</p><p><strong>Weider Pure Creatine</strong> · 600 g. Sold sealed and genuine at Lionlegacy Fitness, College House, Koinange Street, with countrywide delivery.</p>",
+		"specs": "Brand: Weider\nSize: 600 g\nForm: Powder\nBest for: Muscle Gain, Strength & Power",
+		"regular": "6900",
+		"upsells": [
+			"rule-1-whey-protein",
+			"cellucor-c4-original",
+			"bodybuilder-shaker-bottle"
+		]
+	},
+	{
+		"slug": "muscletech-cell-tech-creatine-hcl",
+		"name": "MuscleTech Cell-Tech Creatine HCl+",
+		"cat": [
+			"creatine-pre"
+		],
+		"brand": "MuscleTech",
+		"type": "creatine",
+		"badge": "211 g",
+		"goals": [
+			"muscle-gain",
+			"strength"
+		],
+		"featured": false,
+		"madeToOrder": false,
+		"short": "<p>Creatine helps you push out extra reps and build strength and muscle over time.</p>",
+		"desc": "<p>Creatine helps you push out extra reps and build strength and muscle over time.</p><p><strong>MuscleTech Cell-Tech Creatine HCl+</strong> · 211 g. Sold sealed and genuine at Lionlegacy Fitness, College House, Koinange Street, with countrywide delivery.</p>",
+		"specs": "Brand: MuscleTech\nSize: 211 g\nForm: Powder\nBest for: Muscle Gain, Strength & Power",
+		"regular": "4600",
+		"upsells": [
+			"rule-1-whey-protein",
+			"cellucor-c4-original",
+			"bodybuilder-shaker-bottle"
+		]
+	},
+	{
+		"slug": "muscletech-cell-tech-creatine",
+		"name": "MuscleTech Cell-Tech Creatine",
+		"cat": [
+			"creatine-pre"
+		],
+		"brand": "MuscleTech",
+		"type": "creatine",
+		"badge": "2.72 kg · 54 servings",
+		"goals": [
+			"muscle-gain",
+			"strength"
+		],
+		"featured": false,
+		"madeToOrder": false,
+		"short": "<p>Creatine helps you push out extra reps and build strength and muscle over time.</p>",
+		"desc": "<p>Creatine helps you push out extra reps and build strength and muscle over time.</p><p><strong>MuscleTech Cell-Tech Creatine</strong> · 2.72 kg · 54 servings. Sold sealed and genuine at Lionlegacy Fitness, College House, Koinange Street, with countrywide delivery.</p>",
+		"specs": "Brand: MuscleTech\nSize: 2.72 kg · 54 servings\nForm: Powder\nBest for: Muscle Gain, Strength & Power",
+		"regular": "8500",
+		"upsells": [
+			"rule-1-whey-protein",
+			"cellucor-c4-original",
+			"bodybuilder-shaker-bottle"
+		]
+	},
+	{
+		"slug": "applied-nutrition-creatine-hydration",
+		"name": "Applied Nutrition Creatine + Hydration",
+		"cat": [
+			"creatine-pre"
+		],
+		"brand": "Applied Nutrition",
+		"type": "creatine",
+		"badge": "360 g · 30 servings",
+		"goals": [
+			"muscle-gain",
+			"strength"
+		],
+		"featured": false,
+		"madeToOrder": false,
+		"short": "<p>Creatine helps you push out extra reps and build strength and muscle over time.</p>",
+		"desc": "<p>Creatine helps you push out extra reps and build strength and muscle over time.</p><p><strong>Applied Nutrition Creatine + Hydration</strong> · 360 g · 30 servings. Sold sealed and genuine at Lionlegacy Fitness, College House, Koinange Street, with countrywide delivery.</p>",
+		"specs": "Brand: Applied Nutrition\nSize: 360 g · 30 servings\nForm: Powder\nBest for: Muscle Gain, Strength & Power",
+		"regular": "4400",
+		"upsells": [
+			"rule-1-whey-protein",
+			"cellucor-c4-original",
+			"bodybuilder-shaker-bottle"
+		]
+	},
+	{
+		"slug": "applied-nutrition-creatine-gummies",
+		"name": "Applied Nutrition Creatine Gummies",
+		"cat": [
+			"creatine-pre"
+		],
+		"brand": "Applied Nutrition",
+		"type": "creatine",
+		"badge": "80 gummies · 20 servings",
+		"goals": [
+			"muscle-gain",
+			"strength"
+		],
+		"featured": false,
+		"madeToOrder": false,
+		"short": "<p>Creatine helps you push out extra reps and build strength and muscle over time.</p>",
+		"desc": "<p>Creatine helps you push out extra reps and build strength and muscle over time.</p><p><strong>Applied Nutrition Creatine Gummies</strong> · 80 gummies · 20 servings. Sold sealed and genuine at Lionlegacy Fitness, College House, Koinange Street, with countrywide delivery.</p>",
+		"specs": "Brand: Applied Nutrition\nSize: 80 gummies · 20 servings\nForm: Gummies\nBest for: Muscle Gain, Strength & Power",
+		"regular": "4200",
+		"upsells": [
+			"rule-1-whey-protein",
+			"cellucor-c4-original",
+			"bodybuilder-shaker-bottle"
+		]
+	},
+	{
+		"slug": "kevin-levrone-gold-creatine-chews",
+		"name": "Kevin Levrone Gold Creatine Chews (Flavoured)",
+		"cat": [
+			"creatine-pre"
+		],
+		"brand": "Kevin Levrone",
+		"type": "creatine",
+		"badge": "240 tablets",
+		"goals": [
+			"muscle-gain",
+			"strength"
+		],
+		"featured": false,
+		"madeToOrder": false,
+		"short": "<p>Creatine helps you push out extra reps and build strength and muscle over time.</p>",
+		"desc": "<p>Creatine helps you push out extra reps and build strength and muscle over time.</p><p><strong>Kevin Levrone Gold Creatine Chews (Flavoured)</strong> · 240 tablets. Sold sealed and genuine at Lionlegacy Fitness, College House, Koinange Street, with countrywide delivery.</p>",
+		"specs": "Brand: Kevin Levrone\nSize: 240 tablets\nForm: Tablets\nBest for: Muscle Gain, Strength & Power",
+		"regular": "4200",
+		"upsells": [
+			"rule-1-whey-protein",
+			"cellucor-c4-original",
+			"bodybuilder-shaker-bottle"
+		]
+	},
+	{
+		"slug": "cellucor-c4-original",
+		"name": "Cellucor C4 Original Pre-Workout (Fruit Punch)",
+		"cat": [
+			"creatine-pre"
+		],
+		"brand": "Cellucor",
+		"type": "pre",
+		"badge": "50 servings",
+		"goals": [
+			"strength",
+			"endurance"
+		],
+		"featured": true,
+		"madeToOrder": false,
+		"short": "<p>A pre-workout for energy, focus and pump. Check the label for its caffeine content.</p>",
+		"desc": "<p>A pre-workout for energy, focus and pump. Check the label for its caffeine content.</p><p><strong>Cellucor C4 Original Pre-Workout (Fruit Punch)</strong> · 50 servings. Sold sealed and genuine at Lionlegacy Fitness, College House, Koinange Street, with countrywide delivery.</p>",
+		"specs": "Brand: Cellucor\nSize: 50 servings\nForm: Powder\nBest for: Strength & Power, Endurance & Energy",
+		"regular": "4700",
+		"upsells": [
+			"applied-nutrition-creatine-monohydrate",
+			"optimum-nutrition-amino-energy",
+			"bodybuilder-shaker-bottle"
+		]
+	},
+	{
+		"slug": "bsn-no-xplode",
+		"name": "BSN N.O.-Xplode Legendary Pre-Workout",
+		"cat": [
+			"creatine-pre"
+		],
+		"brand": "BSN",
+		"type": "pre",
+		"badge": "60 servings",
+		"goals": [
+			"strength",
+			"endurance"
+		],
+		"featured": false,
+		"madeToOrder": false,
+		"short": "<p>A pre-workout for energy, focus and pump. Check the label for its caffeine content.</p>",
+		"desc": "<p>A pre-workout for energy, focus and pump. Check the label for its caffeine content.</p><p><strong>BSN N.O.-Xplode Legendary Pre-Workout</strong> · 60 servings. Sold sealed and genuine at Lionlegacy Fitness, College House, Koinange Street, with countrywide delivery.</p>",
+		"specs": "Brand: BSN\nSize: 60 servings\nForm: Powder\nBest for: Strength & Power, Endurance & Energy",
+		"regular": "7100",
+		"upsells": [
+			"applied-nutrition-creatine-monohydrate",
+			"optimum-nutrition-amino-energy",
+			"bodybuilder-shaker-bottle"
+		]
+	},
+	{
+		"slug": "gat-sport-nitraflex",
+		"name": "GAT Sport Nitraflex Pre-Workout",
+		"cat": [
+			"creatine-pre"
+		],
+		"brand": "GAT Sport",
+		"type": "pre",
+		"badge": "300 g · 30 servings",
+		"goals": [
+			"strength",
+			"endurance"
+		],
+		"featured": false,
+		"madeToOrder": false,
+		"short": "<p>A pre-workout for energy, focus and pump. Check the label for its caffeine content.</p>",
+		"desc": "<p>A pre-workout for energy, focus and pump. Check the label for its caffeine content.</p><p><strong>GAT Sport Nitraflex Pre-Workout</strong> · 300 g · 30 servings. Sold sealed and genuine at Lionlegacy Fitness, College House, Koinange Street, with countrywide delivery.</p>",
+		"specs": "Brand: GAT Sport\nSize: 300 g · 30 servings\nForm: Powder\nBest for: Strength & Power, Endurance & Energy",
+		"regular": "4000",
+		"upsells": [
+			"applied-nutrition-creatine-monohydrate",
+			"optimum-nutrition-amino-energy",
+			"bodybuilder-shaker-bottle"
+		]
+	},
+	{
+		"slug": "gat-sport-nitraflex-kaos",
+		"name": "GAT Sport Nitraflex Kaos Pre-Workout",
+		"cat": [
+			"creatine-pre"
+		],
+		"brand": "GAT Sport",
+		"type": "pre",
+		"badge": "40 servings",
+		"goals": [
+			"strength",
+			"endurance"
+		],
+		"featured": false,
+		"madeToOrder": false,
+		"short": "<p>A pre-workout for energy, focus and pump. Check the label for its caffeine content.</p>",
+		"desc": "<p>A pre-workout for energy, focus and pump. Check the label for its caffeine content.</p><p><strong>GAT Sport Nitraflex Kaos Pre-Workout</strong> · 40 servings. Sold sealed and genuine at Lionlegacy Fitness, College House, Koinange Street, with countrywide delivery.</p>",
+		"specs": "Brand: GAT Sport\nSize: 40 servings\nForm: Powder\nBest for: Strength & Power, Endurance & Energy",
+		"regular": "4500",
+		"upsells": [
+			"applied-nutrition-creatine-monohydrate",
+			"optimum-nutrition-amino-energy",
+			"bodybuilder-shaker-bottle"
+		]
+	},
+	{
+		"slug": "applied-nutrition-abe-ultimate-pre-workout",
+		"name": "Applied Nutrition ABE Ultimate Pre-Workout",
+		"cat": [
+			"creatine-pre"
+		],
+		"brand": "Applied Nutrition",
+		"type": "pre",
+		"badge": "375 g · 30 servings",
+		"goals": [
+			"strength",
+			"endurance"
+		],
+		"featured": false,
+		"madeToOrder": false,
+		"short": "<p>A pre-workout for energy, focus and pump. Check the label for its caffeine content.</p>",
+		"desc": "<p>A pre-workout for energy, focus and pump. Check the label for its caffeine content.</p><p><strong>Applied Nutrition ABE Ultimate Pre-Workout</strong> · 375 g · 30 servings. Sold sealed and genuine at Lionlegacy Fitness, College House, Koinange Street, with countrywide delivery.</p>",
+		"specs": "Brand: Applied Nutrition\nSize: 375 g · 30 servings\nForm: Powder\nBest for: Strength & Power, Endurance & Energy",
+		"regular": "4200",
+		"upsells": [
+			"applied-nutrition-creatine-monohydrate",
+			"optimum-nutrition-amino-energy",
+			"bodybuilder-shaker-bottle"
+		]
+	},
+	{
+		"slug": "applied-nutrition-abe-pump",
+		"name": "Applied Nutrition ABE All Black Everything Pump",
+		"cat": [
+			"creatine-pre"
+		],
+		"brand": "Applied Nutrition",
+		"type": "pre",
+		"badge": "40 scoops",
+		"goals": [
+			"strength",
+			"endurance"
+		],
+		"featured": false,
+		"madeToOrder": false,
+		"short": "<p>A pre-workout for energy, focus and pump. Check the label for its caffeine content.</p>",
+		"desc": "<p>A pre-workout for energy, focus and pump. Check the label for its caffeine content.</p><p><strong>Applied Nutrition ABE All Black Everything Pump</strong> · 40 scoops. Sold sealed and genuine at Lionlegacy Fitness, College House, Koinange Street, with countrywide delivery.</p>",
+		"specs": "Brand: Applied Nutrition\nSize: 40 scoops\nForm: Powder\nBest for: Strength & Power, Endurance & Energy",
+		"regular": "5600",
+		"upsells": [
+			"applied-nutrition-creatine-monohydrate",
+			"optimum-nutrition-amino-energy",
+			"bodybuilder-shaker-bottle"
+		]
+	},
+	{
+		"slug": "condemned-labz-convict",
+		"name": "Condemned Labz Convict High Stim Pre-Workout",
+		"cat": [
+			"creatine-pre"
+		],
+		"brand": "Condemned Labz",
+		"type": "pre",
+		"badge": "310 g · 50 servings",
+		"goals": [
+			"strength",
+			"endurance"
+		],
+		"featured": false,
+		"madeToOrder": false,
+		"short": "<p>A pre-workout for energy, focus and pump. Check the label for its caffeine content.</p>",
+		"desc": "<p>A pre-workout for energy, focus and pump. Check the label for its caffeine content.</p><p><strong>Condemned Labz Convict High Stim Pre-Workout</strong> · 310 g · 50 servings. Sold sealed and genuine at Lionlegacy Fitness, College House, Koinange Street, with countrywide delivery.</p>",
+		"specs": "Brand: Condemned Labz\nSize: 310 g · 50 servings\nForm: Powder\nBest for: Strength & Power, Endurance & Energy",
+		"regular": "4000",
+		"upsells": [
+			"applied-nutrition-creatine-monohydrate",
+			"optimum-nutrition-amino-energy",
+			"bodybuilder-shaker-bottle"
+		]
+	},
+	{
+		"slug": "kevin-levrone-shaaboom-pump",
+		"name": "Kevin Levrone Shaaboom Pump Pre-Workout",
+		"cat": [
+			"creatine-pre"
+		],
+		"brand": "Kevin Levrone",
+		"type": "pre",
+		"badge": "385 g",
+		"goals": [
+			"strength",
+			"endurance"
+		],
+		"featured": false,
+		"madeToOrder": false,
+		"short": "<p>A pre-workout for energy, focus and pump. Check the label for its caffeine content.</p>",
+		"desc": "<p>A pre-workout for energy, focus and pump. Check the label for its caffeine content.</p><p><strong>Kevin Levrone Shaaboom Pump Pre-Workout</strong> · 385 g. Sold sealed and genuine at Lionlegacy Fitness, College House, Koinange Street, with countrywide delivery.</p>",
+		"specs": "Brand: Kevin Levrone\nSize: 385 g\nForm: Powder\nBest for: Strength & Power, Endurance & Energy",
+		"regular": "4700",
+		"upsells": [
+			"applied-nutrition-creatine-monohydrate",
+			"optimum-nutrition-amino-energy",
+			"bodybuilder-shaker-bottle"
+		]
+	},
+	{
+		"slug": "redcon1-total-war",
+		"name": "Redcon1 Total War Pre-Workout",
+		"cat": [
+			"creatine-pre"
+		],
+		"brand": "Redcon1",
+		"type": "pre",
+		"badge": "435 g · 30 servings",
+		"goals": [
+			"strength",
+			"endurance"
+		],
+		"featured": false,
+		"madeToOrder": false,
+		"short": "<p>A pre-workout for energy, focus and pump. Check the label for its caffeine content.</p>",
+		"desc": "<p>A pre-workout for energy, focus and pump. Check the label for its caffeine content.</p><p><strong>Redcon1 Total War Pre-Workout</strong> · 435 g · 30 servings. Sold sealed and genuine at Lionlegacy Fitness, College House, Koinange Street, with countrywide delivery.</p>",
+		"specs": "Brand: Redcon1\nSize: 435 g · 30 servings\nForm: Powder\nBest for: Strength & Power, Endurance & Energy",
+		"regular": "3700",
+		"upsells": [
+			"applied-nutrition-creatine-monohydrate",
+			"optimum-nutrition-amino-energy",
+			"bodybuilder-shaker-bottle"
+		]
+	},
+	{
+		"slug": "nutrex-outrage-pre-workout",
+		"name": "Nutrex Outrage Pre-Workout",
+		"cat": [
+			"creatine-pre"
+		],
+		"brand": "Nutrex Research",
+		"type": "pre",
+		"badge": "30 servings",
+		"goals": [
+			"strength",
+			"endurance"
+		],
+		"featured": false,
+		"madeToOrder": false,
+		"short": "<p>A pre-workout for energy, focus and pump. Check the label for its caffeine content.</p>",
+		"desc": "<p>A pre-workout for energy, focus and pump. Check the label for its caffeine content.</p><p><strong>Nutrex Outrage Pre-Workout</strong> · 30 servings. Sold sealed and genuine at Lionlegacy Fitness, College House, Koinange Street, with countrywide delivery.</p>",
+		"specs": "Brand: Nutrex Research\nSize: 30 servings\nForm: Powder\nBest for: Strength & Power, Endurance & Energy",
+		"regular": "3600",
+		"upsells": [
+			"applied-nutrition-creatine-monohydrate",
+			"optimum-nutrition-amino-energy",
+			"bodybuilder-shaker-bottle"
+		]
+	},
+	{
+		"slug": "ryse-loaded-pre-workout",
+		"name": "RYSE Loaded Pre-Workout",
+		"cat": [
+			"creatine-pre"
+		],
+		"brand": "RYSE",
+		"type": "pre",
+		"badge": "30 servings",
+		"goals": [
+			"strength",
+			"endurance"
+		],
+		"featured": false,
+		"madeToOrder": false,
+		"short": "<p>A pre-workout for energy, focus and pump. Check the label for its caffeine content.</p>",
+		"desc": "<p>A pre-workout for energy, focus and pump. Check the label for its caffeine content.</p><p><strong>RYSE Loaded Pre-Workout</strong> · 30 servings. Sold sealed and genuine at Lionlegacy Fitness, College House, Koinange Street, with countrywide delivery.</p>",
+		"specs": "Brand: RYSE\nSize: 30 servings\nForm: Powder\nBest for: Strength & Power, Endurance & Energy",
+		"regular": "6500",
+		"upsells": [
+			"applied-nutrition-creatine-monohydrate",
+			"optimum-nutrition-amino-energy",
+			"bodybuilder-shaker-bottle"
+		]
+	},
+	{
+		"slug": "animal-pump",
+		"name": "Animal Pump Pre-Workout",
+		"cat": [
+			"creatine-pre"
+		],
+		"brand": "Animal",
+		"type": "pre",
+		"badge": "30 packs",
+		"goals": [
+			"strength",
+			"endurance"
+		],
+		"featured": false,
+		"madeToOrder": false,
+		"short": "<p>A pre-workout for energy, focus and pump. Check the label for its caffeine content.</p>",
+		"desc": "<p>A pre-workout for energy, focus and pump. Check the label for its caffeine content.</p><p><strong>Animal Pump Pre-Workout</strong> · 30 packs. Sold sealed and genuine at Lionlegacy Fitness, College House, Koinange Street, with countrywide delivery.</p>",
+		"specs": "Brand: Animal\nSize: 30 packs\nForm: Packs\nBest for: Strength & Power, Endurance & Energy",
+		"regular": "7200",
+		"upsells": [
+			"applied-nutrition-creatine-monohydrate",
+			"optimum-nutrition-amino-energy",
+			"bodybuilder-shaker-bottle"
+		]
+	},
+	{
+		"slug": "olimp-argipower-1500",
+		"name": "Olimp Argipower 1500 Mega Caps",
+		"cat": [
+			"creatine-pre"
+		],
+		"brand": "Olimp",
+		"type": "pump",
+		"badge": "120 capsules",
+		"goals": [
+			"strength"
+		],
+		"featured": false,
+		"madeToOrder": false,
+		"short": "<p>An L-arginine nitric oxide supplement for pump and blood flow while you train.</p>",
+		"desc": "<p>An L-arginine nitric oxide supplement for pump and blood flow while you train.</p><p><strong>Olimp Argipower 1500 Mega Caps</strong> · 120 capsules. Sold sealed and genuine at Lionlegacy Fitness, College House, Koinange Street, with countrywide delivery.</p>",
+		"specs": "Brand: Olimp\nSize: 120 capsules\nForm: Capsules\nBest for: Strength & Power",
+		"regular": "4400",
+		"upsells": [
+			"applied-nutrition-creatine-monohydrate",
+			"optimum-nutrition-amino-energy",
+			"bodybuilder-shaker-bottle"
+		]
+	},
+	{
+		"slug": "applied-nutrition-abe-energy-drink",
+		"name": "Applied Nutrition ABE Energy Drink",
+		"cat": [
+			"creatine-pre"
+		],
+		"brand": "Applied Nutrition",
+		"type": "drink",
+		"badge": "330 ml can",
+		"goals": [
+			"endurance"
+		],
+		"featured": false,
+		"madeToOrder": false,
+		"short": "<p>A ready-to-drink energy can for a quick lift before training.</p>",
+		"desc": "<p>A ready-to-drink energy can for a quick lift before training.</p><p><strong>Applied Nutrition ABE Energy Drink</strong> · 330 ml can. Sold sealed and genuine at Lionlegacy Fitness, College House, Koinange Street, with countrywide delivery.</p>",
+		"specs": "Brand: Applied Nutrition\nSize: 330 ml can\nForm: Powder\nBest for: Endurance & Energy",
+		"regular": "450",
+		"upsells": [
+			"applied-nutrition-creatine-monohydrate",
+			"optimum-nutrition-amino-energy",
+			"bodybuilder-shaker-bottle"
+		]
+	},
+	{
+		"slug": "nutrex-lipo-6-black-ultra-concentrate",
+		"name": "Nutrex Lipo-6 Black Ultra Concentrate",
+		"cat": [
+			"burners-aminos"
+		],
+		"brand": "Nutrex Research",
+		"type": "burner",
+		"badge": "60 capsules",
+		"goals": [
+			"fat-loss"
+		],
+		"featured": true,
+		"madeToOrder": false,
+		"short": "<p>A fat burner to support energy and appetite control while you are in a calorie deficit.</p>",
+		"desc": "<p>A fat burner to support energy and appetite control while you are in a calorie deficit.</p><p><strong>Nutrex Lipo-6 Black Ultra Concentrate</strong> · 60 capsules. Sold sealed and genuine at Lionlegacy Fitness, College House, Koinange Street, with countrywide delivery.</p>",
+		"specs": "Brand: Nutrex Research\nSize: 60 capsules\nForm: Capsules\nBest for: Fat Loss",
+		"regular": "4500",
+		"upsells": [
+			"applied-nutrition-diet-whey",
+			"myprotein-l-carnitine",
+			"allmax-l-carnitine-tartrate"
+		]
+	},
+	{
+		"slug": "nutrex-lipo-6-black",
+		"name": "Nutrex Lipo-6 Black",
+		"cat": [
+			"burners-aminos"
+		],
+		"brand": "Nutrex Research",
+		"type": "burner",
+		"badge": "120 liqui-caps",
+		"goals": [
+			"fat-loss"
+		],
+		"featured": false,
+		"madeToOrder": false,
+		"short": "<p>A fat burner to support energy and appetite control while you are in a calorie deficit.</p>",
+		"desc": "<p>A fat burner to support energy and appetite control while you are in a calorie deficit.</p><p><strong>Nutrex Lipo-6 Black</strong> · 120 liqui-caps. Sold sealed and genuine at Lionlegacy Fitness, College House, Koinange Street, with countrywide delivery.</p>",
+		"specs": "Brand: Nutrex Research\nSize: 120 liqui-caps\nForm: Capsules\nBest for: Fat Loss",
+		"regular": "3800",
+		"upsells": [
+			"applied-nutrition-diet-whey",
+			"myprotein-l-carnitine",
+			"allmax-l-carnitine-tartrate"
+		]
+	},
+	{
+		"slug": "nutrex-lipo-6-intense",
+		"name": "Nutrex Lipo-6 Intense Ultra Concentrate",
+		"cat": [
+			"burners-aminos"
+		],
+		"brand": "Nutrex Research",
+		"type": "burner",
+		"badge": "60 capsules",
+		"goals": [
+			"fat-loss"
+		],
+		"featured": false,
+		"madeToOrder": false,
+		"short": "<p>A fat burner to support energy and appetite control while you are in a calorie deficit.</p>",
+		"desc": "<p>A fat burner to support energy and appetite control while you are in a calorie deficit.</p><p><strong>Nutrex Lipo-6 Intense Ultra Concentrate</strong> · 60 capsules. Sold sealed and genuine at Lionlegacy Fitness, College House, Koinange Street, with countrywide delivery.</p>",
+		"specs": "Brand: Nutrex Research\nSize: 60 capsules\nForm: Capsules\nBest for: Fat Loss",
+		"regular": "4000",
+		"upsells": [
+			"applied-nutrition-diet-whey",
+			"myprotein-l-carnitine",
+			"allmax-l-carnitine-tartrate"
+		]
+	},
+	{
+		"slug": "nutrex-lipo-6-hers",
+		"name": "Nutrex Lipo-6 Hers Ultra Concentrate",
+		"cat": [
+			"burners-aminos"
+		],
+		"brand": "Nutrex Research",
+		"type": "burner",
+		"badge": "60 capsules",
+		"goals": [
+			"fat-loss"
+		],
+		"featured": false,
+		"madeToOrder": false,
+		"short": "<p>A fat burner to support energy and appetite control while you are in a calorie deficit.</p>",
+		"desc": "<p>A fat burner to support energy and appetite control while you are in a calorie deficit.</p><p><strong>Nutrex Lipo-6 Hers Ultra Concentrate</strong> · 60 capsules. Sold sealed and genuine at Lionlegacy Fitness, College House, Koinange Street, with countrywide delivery.</p>",
+		"specs": "Brand: Nutrex Research\nSize: 60 capsules\nForm: Capsules\nBest for: Fat Loss",
+		"regular": "3800",
+		"upsells": [
+			"applied-nutrition-diet-whey",
+			"myprotein-l-carnitine",
+			"allmax-l-carnitine-tartrate"
+		]
+	},
+	{
+		"slug": "muscletech-hydroxycut-hardcore-elite",
+		"name": "MuscleTech Hydroxycut Hardcore Elite",
+		"cat": [
+			"burners-aminos"
+		],
+		"brand": "MuscleTech",
+		"type": "burner",
+		"badge": "100 capsules",
+		"goals": [
+			"fat-loss"
+		],
+		"featured": false,
+		"madeToOrder": false,
+		"short": "<p>A fat burner to support energy and appetite control while you are in a calorie deficit.</p>",
+		"desc": "<p>A fat burner to support energy and appetite control while you are in a calorie deficit.</p><p><strong>MuscleTech Hydroxycut Hardcore Elite</strong> · 100 capsules. Sold sealed and genuine at Lionlegacy Fitness, College House, Koinange Street, with countrywide delivery.</p>",
+		"specs": "Brand: MuscleTech\nSize: 100 capsules\nForm: Capsules\nBest for: Fat Loss",
+		"regular": "3800",
+		"upsells": [
+			"applied-nutrition-diet-whey",
+			"myprotein-l-carnitine",
+			"allmax-l-carnitine-tartrate"
+		]
+	},
+	{
+		"slug": "applied-nutrition-shred-x",
+		"name": "Applied Nutrition Shred-X Extreme Thermogenic Powder",
+		"cat": [
+			"burners-aminos"
+		],
+		"brand": "Applied Nutrition",
+		"type": "burner",
+		"badge": "30 servings",
+		"goals": [
+			"fat-loss"
+		],
+		"featured": false,
+		"madeToOrder": false,
+		"short": "<p>A fat burner to support energy and appetite control while you are in a calorie deficit.</p>",
+		"desc": "<p>A fat burner to support energy and appetite control while you are in a calorie deficit.</p><p><strong>Applied Nutrition Shred-X Extreme Thermogenic Powder</strong> · 30 servings. Sold sealed and genuine at Lionlegacy Fitness, College House, Koinange Street, with countrywide delivery.</p>",
+		"specs": "Brand: Applied Nutrition\nSize: 30 servings\nForm: Powder\nBest for: Fat Loss",
+		"regular": "5200",
+		"upsells": [
+			"applied-nutrition-diet-whey",
+			"myprotein-l-carnitine",
+			"allmax-l-carnitine-tartrate"
+		]
+	},
+	{
+		"slug": "enhanced-labs-eca-shred",
+		"name": "Enhanced Labs ECA Shred",
+		"cat": [
+			"burners-aminos"
+		],
+		"brand": "Enhanced Labs",
+		"type": "burner",
+		"badge": "60 capsules",
+		"goals": [
+			"fat-loss"
+		],
+		"featured": false,
+		"madeToOrder": false,
+		"short": "<p>A fat burner to support energy and appetite control while you are in a calorie deficit.</p>",
+		"desc": "<p>A fat burner to support energy and appetite control while you are in a calorie deficit.</p><p><strong>Enhanced Labs ECA Shred</strong> · 60 capsules. Sold sealed and genuine at Lionlegacy Fitness, College House, Koinange Street, with countrywide delivery.</p>",
+		"specs": "Brand: Enhanced Labs\nSize: 60 capsules\nForm: Capsules\nBest for: Fat Loss",
+		"regular": "4600",
+		"upsells": [
+			"applied-nutrition-diet-whey",
+			"myprotein-l-carnitine",
+			"allmax-l-carnitine-tartrate"
+		]
+	},
+	{
+		"slug": "rule-1-burn",
+		"name": "Rule 1 Burn",
+		"cat": [
+			"burners-aminos"
+		],
+		"brand": "Rule 1",
+		"type": "burner",
+		"badge": "30 servings",
+		"goals": [
+			"fat-loss"
+		],
+		"featured": false,
+		"madeToOrder": false,
+		"short": "<p>A fat burner to support energy and appetite control while you are in a calorie deficit.</p>",
+		"desc": "<p>A fat burner to support energy and appetite control while you are in a calorie deficit.</p><p><strong>Rule 1 Burn</strong> · 30 servings. Sold sealed and genuine at Lionlegacy Fitness, College House, Koinange Street, with countrywide delivery.</p>",
+		"specs": "Brand: Rule 1\nSize: 30 servings\nForm: Powder\nBest for: Fat Loss",
+		"regular": "4500",
+		"upsells": [
+			"applied-nutrition-diet-whey",
+			"myprotein-l-carnitine",
+			"allmax-l-carnitine-tartrate"
+		]
+	},
+	{
+		"slug": "laperva-true-lean",
+		"name": "Laperva True Lean",
+		"cat": [
+			"burners-aminos"
+		],
+		"brand": "Laperva",
+		"type": "burner",
+		"badge": "30 servings",
+		"goals": [
+			"fat-loss"
+		],
+		"featured": false,
+		"madeToOrder": false,
+		"short": "<p>A fat burner to support energy and appetite control while you are in a calorie deficit.</p>",
+		"desc": "<p>A fat burner to support energy and appetite control while you are in a calorie deficit.</p><p><strong>Laperva True Lean</strong> · 30 servings. Sold sealed and genuine at Lionlegacy Fitness, College House, Koinange Street, with countrywide delivery.</p>",
+		"specs": "Brand: Laperva\nSize: 30 servings\nForm: Powder\nBest for: Fat Loss",
+		"regular": "4600",
+		"upsells": [
+			"applied-nutrition-diet-whey",
+			"myprotein-l-carnitine",
+			"allmax-l-carnitine-tartrate"
+		]
+	},
+	{
+		"slug": "natures-truth-garcinia-cambogia",
+		"name": "Nature's Truth Garcinia Cambogia",
+		"cat": [
+			"burners-aminos"
+		],
+		"brand": "Nature's Truth",
+		"type": "burnercaps",
+		"badge": "90 capsules",
+		"goals": [
+			"fat-loss"
+		],
+		"featured": false,
+		"madeToOrder": false,
+		"short": "<p>Weight-management support, to use alongside a calorie deficit and regular training.</p>",
+		"desc": "<p>Weight-management support, to use alongside a calorie deficit and regular training.</p><p><strong>Nature's Truth Garcinia Cambogia</strong> · 90 capsules. Sold sealed and genuine at Lionlegacy Fitness, College House, Koinange Street, with countrywide delivery.</p>",
+		"specs": "Brand: Nature's Truth\nSize: 90 capsules\nForm: Capsules\nBest for: Fat Loss",
+		"regular": "3000",
+		"upsells": [
+			"applied-nutrition-diet-whey",
+			"myprotein-l-carnitine",
+			"allmax-l-carnitine-tartrate"
+		]
+	},
+	{
+		"slug": "kevin-levrone-anabolic-diuretic",
+		"name": "Kevin Levrone Anabolic Diuretic",
+		"cat": [
+			"burners-aminos"
+		],
+		"brand": "Kevin Levrone",
+		"type": "burnercaps",
+		"badge": "90 tablets",
+		"goals": [
+			"fat-loss"
+		],
+		"featured": false,
+		"madeToOrder": false,
+		"short": "<p>Weight-management support, to use alongside a calorie deficit and regular training.</p>",
+		"desc": "<p>Weight-management support, to use alongside a calorie deficit and regular training.</p><p><strong>Kevin Levrone Anabolic Diuretic</strong> · 90 tablets. Sold sealed and genuine at Lionlegacy Fitness, College House, Koinange Street, with countrywide delivery.</p>",
+		"specs": "Brand: Kevin Levrone\nSize: 90 tablets\nForm: Tablets\nBest for: Fat Loss",
+		"regular": "4000",
+		"upsells": [
+			"applied-nutrition-diet-whey",
+			"myprotein-l-carnitine",
+			"allmax-l-carnitine-tartrate"
+		]
+	},
+	{
+		"slug": "myprotein-l-carnitine",
+		"name": "Myprotein L-Carnitine Amino Acid Tablets",
+		"cat": [
+			"burners-aminos"
+		],
+		"brand": "Myprotein",
+		"type": "carnitine",
+		"badge": "180 tablets",
+		"goals": [
+			"fat-loss",
+			"endurance"
+		],
+		"featured": false,
+		"madeToOrder": false,
+		"short": "<p>L-Carnitine helps your body use fat for energy, and is popular before cardio.</p>",
+		"desc": "<p>L-Carnitine helps your body use fat for energy, and is popular before cardio.</p><p><strong>Myprotein L-Carnitine Amino Acid Tablets</strong> · 180 tablets. Sold sealed and genuine at Lionlegacy Fitness, College House, Koinange Street, with countrywide delivery.</p>",
+		"specs": "Brand: Myprotein\nSize: 180 tablets\nForm: Capsules\nBest for: Fat Loss, Endurance & Energy",
+		"regular": "4500",
+		"upsells": [
+			"applied-nutrition-diet-whey",
+			"allmax-l-carnitine-tartrate",
+			"lionlegacy-steel-water-bottle"
+		]
+	},
+	{
+		"slug": "allmax-l-carnitine-tartrate",
+		"name": "Allmax Essentials L-Carnitine Tartrate",
+		"cat": [
+			"burners-aminos"
+		],
+		"brand": "Allmax",
+		"type": "carnitine",
+		"badge": "120 capsules",
+		"goals": [
+			"fat-loss",
+			"endurance"
+		],
+		"featured": false,
+		"madeToOrder": false,
+		"short": "<p>L-Carnitine helps your body use fat for energy, and is popular before cardio.</p>",
+		"desc": "<p>L-Carnitine helps your body use fat for energy, and is popular before cardio.</p><p><strong>Allmax Essentials L-Carnitine Tartrate</strong> · 120 capsules. Sold sealed and genuine at Lionlegacy Fitness, College House, Koinange Street, with countrywide delivery.</p>",
+		"specs": "Brand: Allmax\nSize: 120 capsules\nForm: Capsules\nBest for: Fat Loss, Endurance & Energy",
+		"regular": "4500",
+		"upsells": [
+			"applied-nutrition-diet-whey",
+			"myprotein-l-carnitine",
+			"lionlegacy-steel-water-bottle"
+		]
+	},
+	{
+		"slug": "applied-nutrition-berberine",
+		"name": "Applied Nutrition Berberine 1000 mg",
+		"cat": [
+			"burners-aminos"
+		],
+		"brand": "Applied Nutrition",
+		"type": "burnercaps",
+		"badge": "60 capsules",
+		"goals": [
+			"fat-loss"
+		],
+		"featured": false,
+		"madeToOrder": false,
+		"short": "<p>Weight-management support, to use alongside a calorie deficit and regular training.</p>",
+		"desc": "<p>Weight-management support, to use alongside a calorie deficit and regular training.</p><p><strong>Applied Nutrition Berberine 1000 mg</strong> · 60 capsules. Sold sealed and genuine at Lionlegacy Fitness, College House, Koinange Street, with countrywide delivery.</p>",
+		"specs": "Brand: Applied Nutrition\nSize: 60 capsules\nForm: Capsules\nBest for: Fat Loss",
+		"regular": "4500",
+		"upsells": [
+			"applied-nutrition-diet-whey",
+			"myprotein-l-carnitine",
+			"allmax-l-carnitine-tartrate"
+		]
+	},
+	{
+		"slug": "gat-sport-nitraflex-pro-berberine",
+		"name": "GAT Sport Nitraflex Pro Berberine",
+		"cat": [
+			"burners-aminos"
+		],
+		"brand": "GAT Sport",
+		"type": "burnercaps",
+		"badge": "300 g · 30 servings",
+		"goals": [
+			"fat-loss"
+		],
+		"featured": false,
+		"madeToOrder": false,
+		"short": "<p>Weight-management support, to use alongside a calorie deficit and regular training.</p>",
+		"desc": "<p>Weight-management support, to use alongside a calorie deficit and regular training.</p><p><strong>GAT Sport Nitraflex Pro Berberine</strong> · 300 g · 30 servings. Sold sealed and genuine at Lionlegacy Fitness, College House, Koinange Street, with countrywide delivery.</p>",
+		"specs": "Brand: GAT Sport\nSize: 300 g · 30 servings\nForm: Powder\nBest for: Fat Loss",
+		"regular": "4000",
+		"upsells": [
+			"applied-nutrition-diet-whey",
+			"myprotein-l-carnitine",
+			"allmax-l-carnitine-tartrate"
+		]
+	},
+	{
+		"slug": "optimum-nutrition-amino-energy",
+		"name": "Optimum Nutrition Amino Energy",
+		"cat": [
+			"burners-aminos"
+		],
+		"brand": "Optimum Nutrition",
+		"type": "aminoenergy",
+		"badge": "65 servings",
+		"goals": [
+			"endurance",
+			"recovery"
+		],
+		"featured": true,
+		"madeToOrder": false,
+		"short": "<p>Amino acids with caffeine for energy and recovery, any time of day.</p>",
+		"desc": "<p>Amino acids with caffeine for energy and recovery, any time of day.</p><p><strong>Optimum Nutrition Amino Energy</strong> · 65 servings. Sold sealed and genuine at Lionlegacy Fitness, College House, Koinange Street, with countrywide delivery.</p>",
+		"specs": "Brand: Optimum Nutrition\nSize: 65 servings\nForm: Powder\nBest for: Endurance & Energy, Recovery & Hydration",
+		"regular": "6500",
+		"upsells": [
+			"applied-nutrition-creatine-monohydrate",
+			"rule-1-whey-protein",
+			"lionlegacy-steel-water-bottle"
+		]
+	},
+	{
+		"slug": "mutant-geaar-eaa",
+		"name": "Mutant gEAAr Complete Essential Amino Acids",
+		"cat": [
+			"burners-aminos"
+		],
+		"brand": "Mutant",
+		"type": "eaa",
+		"badge": "420 g · 30 double serves",
+		"goals": [
+			"recovery",
+			"endurance"
+		],
+		"featured": false,
+		"madeToOrder": false,
+		"short": "<p>All nine essential amino acids, to support muscle recovery around training.</p>",
+		"desc": "<p>All nine essential amino acids, to support muscle recovery around training.</p><p><strong>Mutant gEAAr Complete Essential Amino Acids</strong> · 420 g · 30 double serves. Sold sealed and genuine at Lionlegacy Fitness, College House, Koinange Street, with countrywide delivery.</p>",
+		"specs": "Brand: Mutant\nSize: 420 g · 30 double serves\nForm: Powder\nBest for: Recovery & Hydration, Endurance & Energy",
+		"regular": "4500",
+		"upsells": [
+			"applied-nutrition-creatine-monohydrate",
+			"rule-1-whey-protein",
+			"lionlegacy-steel-water-bottle"
+		]
+	},
+	{
+		"slug": "enhanced-labs-eaa-plus",
+		"name": "Enhanced Labs EAA+",
+		"cat": [
+			"burners-aminos"
+		],
+		"brand": "Enhanced Labs",
+		"type": "eaa",
+		"badge": "226.5 g",
+		"goals": [
+			"recovery",
+			"endurance"
+		],
+		"featured": false,
+		"madeToOrder": false,
+		"short": "<p>All nine essential amino acids, to support muscle recovery around training.</p>",
+		"desc": "<p>All nine essential amino acids, to support muscle recovery around training.</p><p><strong>Enhanced Labs EAA+</strong> · 226.5 g. Sold sealed and genuine at Lionlegacy Fitness, College House, Koinange Street, with countrywide delivery.</p>",
+		"specs": "Brand: Enhanced Labs\nSize: 226.5 g\nForm: Powder\nBest for: Recovery & Hydration, Endurance & Energy",
+		"regular": "4300",
+		"upsells": [
+			"applied-nutrition-creatine-monohydrate",
+			"rule-1-whey-protein",
+			"lionlegacy-steel-water-bottle"
+		]
+	},
+	{
+		"slug": "labrada-eaa-power",
+		"name": "Labrada EAA Power Essential Amino Acid Complex",
+		"cat": [
+			"burners-aminos"
+		],
+		"brand": "Labrada",
+		"type": "eaa",
+		"badge": "300 g",
+		"goals": [
+			"recovery",
+			"endurance"
+		],
+		"featured": false,
+		"madeToOrder": false,
+		"short": "<p>All nine essential amino acids, to support muscle recovery around training.</p>",
+		"desc": "<p>All nine essential amino acids, to support muscle recovery around training.</p><p><strong>Labrada EAA Power Essential Amino Acid Complex</strong> · 300 g. Sold sealed and genuine at Lionlegacy Fitness, College House, Koinange Street, with countrywide delivery.</p>",
+		"specs": "Brand: Labrada\nSize: 300 g\nForm: Powder\nBest for: Recovery & Hydration, Endurance & Energy",
+		"regular": "4300",
+		"upsells": [
+			"applied-nutrition-creatine-monohydrate",
+			"rule-1-whey-protein",
+			"lionlegacy-steel-water-bottle"
+		]
+	},
+	{
+		"slug": "applied-nutrition-amino-fuel",
+		"name": "Applied Nutrition Amino Fuel Ultimate EAAs",
+		"cat": [
+			"burners-aminos"
+		],
+		"brand": "Applied Nutrition",
+		"type": "eaa",
+		"badge": "390 g · 30 servings",
+		"goals": [
+			"recovery",
+			"endurance"
+		],
+		"featured": false,
+		"madeToOrder": false,
+		"short": "<p>All nine essential amino acids, to support muscle recovery around training.</p>",
+		"desc": "<p>All nine essential amino acids, to support muscle recovery around training.</p><p><strong>Applied Nutrition Amino Fuel Ultimate EAAs</strong> · 390 g · 30 servings. Sold sealed and genuine at Lionlegacy Fitness, College House, Koinange Street, with countrywide delivery.</p>",
+		"specs": "Brand: Applied Nutrition\nSize: 390 g · 30 servings\nForm: Powder\nBest for: Recovery & Hydration, Endurance & Energy",
+		"regular": "4200",
+		"upsells": [
+			"applied-nutrition-creatine-monohydrate",
+			"rule-1-whey-protein",
+			"lionlegacy-steel-water-bottle"
+		]
+	},
+	{
+		"slug": "nutrex-eaa-hydration",
+		"name": "Nutrex Research EAA+ Hydration",
+		"cat": [
+			"burners-aminos"
+		],
+		"brand": "Nutrex Research",
+		"type": "hydration",
+		"badge": "30 servings",
+		"goals": [
+			"recovery",
+			"endurance"
+		],
+		"featured": false,
+		"madeToOrder": false,
+		"short": "<p>Electrolytes and amino acids to keep you hydrated through long sessions.</p>",
+		"desc": "<p>Electrolytes and amino acids to keep you hydrated through long sessions.</p><p><strong>Nutrex Research EAA+ Hydration</strong> · 30 servings. Sold sealed and genuine at Lionlegacy Fitness, College House, Koinange Street, with countrywide delivery.</p>",
+		"specs": "Brand: Nutrex Research\nSize: 30 servings\nForm: Powder\nBest for: Recovery & Hydration, Endurance & Energy",
+		"regular": "4200",
+		"upsells": [
+			"applied-nutrition-creatine-monohydrate",
+			"rule-1-whey-protein",
+			"lionlegacy-steel-water-bottle"
+		]
+	},
+	{
+		"slug": "applied-nutrition-endurance-energy-hydration",
+		"name": "Applied Nutrition Endurance Energy + Hydration",
+		"cat": [
+			"burners-aminos"
+		],
+		"brand": "Applied Nutrition",
+		"type": "hydration",
+		"badge": "30 servings",
+		"goals": [
+			"recovery",
+			"endurance"
+		],
+		"featured": false,
+		"madeToOrder": false,
+		"short": "<p>Electrolytes and amino acids to keep you hydrated through long sessions.</p>",
+		"desc": "<p>Electrolytes and amino acids to keep you hydrated through long sessions.</p><p><strong>Applied Nutrition Endurance Energy + Hydration</strong> · 30 servings. Sold sealed and genuine at Lionlegacy Fitness, College House, Koinange Street, with countrywide delivery.</p>",
+		"specs": "Brand: Applied Nutrition\nSize: 30 servings\nForm: Powder\nBest for: Recovery & Hydration, Endurance & Energy",
+		"regular": "5400",
+		"upsells": [
+			"applied-nutrition-creatine-monohydrate",
+			"rule-1-whey-protein",
+			"lionlegacy-steel-water-bottle"
+		]
+	},
+	{
+		"slug": "mega-sport-amino-hardcore",
+		"name": "Mega Sport Amino Hardcore",
+		"cat": [
+			"burners-aminos"
+		],
+		"brand": "Mega Sport",
+		"type": "aminotabs",
+		"badge": "325 capsules",
+		"goals": [
+			"recovery",
+			"muscle-gain"
+		],
+		"featured": false,
+		"madeToOrder": false,
+		"short": "<p>Amino acid tablets to top up your protein and support recovery.</p>",
+		"desc": "<p>Amino acid tablets to top up your protein and support recovery.</p><p><strong>Mega Sport Amino Hardcore</strong> · 325 capsules. Sold sealed and genuine at Lionlegacy Fitness, College House, Koinange Street, with countrywide delivery.</p>",
+		"specs": "Brand: Mega Sport\nSize: 325 capsules\nForm: Capsules\nBest for: Recovery & Hydration, Muscle Gain",
+		"regular": "4200",
+		"upsells": [
+			"applied-nutrition-creatine-monohydrate",
+			"rule-1-whey-protein",
+			"lionlegacy-steel-water-bottle"
+		]
+	},
+	{
+		"slug": "gaspari-aminomax-8000",
+		"name": "Gaspari Nutrition AminoMax 8000",
+		"cat": [
+			"burners-aminos"
+		],
+		"brand": "Gaspari Nutrition",
+		"type": "aminotabs",
+		"badge": "325 tablets",
+		"goals": [
+			"recovery",
+			"muscle-gain"
+		],
+		"featured": false,
+		"madeToOrder": false,
+		"short": "<p>Amino acid tablets to top up your protein and support recovery.</p>",
+		"desc": "<p>Amino acid tablets to top up your protein and support recovery.</p><p><strong>Gaspari Nutrition AminoMax 8000</strong> · 325 tablets. Sold sealed and genuine at Lionlegacy Fitness, College House, Koinange Street, with countrywide delivery.</p>",
+		"specs": "Brand: Gaspari Nutrition\nSize: 325 tablets\nForm: Tablets\nBest for: Recovery & Hydration, Muscle Gain",
+		"regular": "4300",
+		"upsells": [
+			"applied-nutrition-creatine-monohydrate",
+			"rule-1-whey-protein",
+			"lionlegacy-steel-water-bottle"
+		]
+	},
+	{
+		"slug": "weider-whey-aminos",
+		"name": "Weider Whey Aminos",
+		"cat": [
+			"burners-aminos"
+		],
+		"brand": "Weider",
+		"type": "aminotabs",
+		"badge": "300 tablets",
+		"goals": [
+			"recovery",
+			"muscle-gain"
+		],
+		"featured": false,
+		"madeToOrder": false,
+		"short": "<p>Amino acid tablets to top up your protein and support recovery.</p>",
+		"desc": "<p>Amino acid tablets to top up your protein and support recovery.</p><p><strong>Weider Whey Aminos</strong> · 300 tablets. Sold sealed and genuine at Lionlegacy Fitness, College House, Koinange Street, with countrywide delivery.</p>",
+		"specs": "Brand: Weider\nSize: 300 tablets\nForm: Tablets\nBest for: Recovery & Hydration, Muscle Gain",
+		"regular": "5500",
+		"upsells": [
+			"applied-nutrition-creatine-monohydrate",
+			"rule-1-whey-protein",
+			"lionlegacy-steel-water-bottle"
+		]
+	},
+	{
+		"slug": "musclemeds-carnivor-beef-aminos",
+		"name": "MuscleMeds Carnivor Beef Aminos",
+		"cat": [
+			"burners-aminos"
+		],
+		"brand": "MuscleMeds",
+		"type": "aminotabs",
+		"badge": "300 tablets",
+		"goals": [
+			"recovery",
+			"muscle-gain"
+		],
+		"featured": false,
+		"madeToOrder": false,
+		"short": "<p>Amino acid tablets to top up your protein and support recovery.</p>",
+		"desc": "<p>Amino acid tablets to top up your protein and support recovery.</p><p><strong>MuscleMeds Carnivor Beef Aminos</strong> · 300 tablets. Sold sealed and genuine at Lionlegacy Fitness, College House, Koinange Street, with countrywide delivery.</p>",
+		"specs": "Brand: MuscleMeds\nSize: 300 tablets\nForm: Tablets\nBest for: Recovery & Hydration, Muscle Gain",
+		"regular": "4000",
+		"upsells": [
+			"applied-nutrition-creatine-monohydrate",
+			"rule-1-whey-protein",
+			"lionlegacy-steel-water-bottle"
+		]
+	},
+	{
+		"slug": "olimp-anabolic-amino-9000",
+		"name": "Olimp Anabolic Amino 9000 Mega Tabs",
+		"cat": [
+			"burners-aminos"
+		],
+		"brand": "Olimp",
+		"type": "aminotabs",
+		"badge": "309 tablets",
+		"goals": [
+			"recovery",
+			"muscle-gain"
+		],
+		"featured": false,
+		"madeToOrder": false,
+		"short": "<p>Amino acid tablets to top up your protein and support recovery.</p>",
+		"desc": "<p>Amino acid tablets to top up your protein and support recovery.</p><p><strong>Olimp Anabolic Amino 9000 Mega Tabs</strong> · 309 tablets. Sold sealed and genuine at Lionlegacy Fitness, College House, Koinange Street, with countrywide delivery.</p>",
+		"specs": "Brand: Olimp\nSize: 309 tablets\nForm: Tablets\nBest for: Recovery & Hydration, Muscle Gain",
+		"regular": "7500",
+		"upsells": [
+			"applied-nutrition-creatine-monohydrate",
+			"rule-1-whey-protein",
+			"lionlegacy-steel-water-bottle"
+		]
+	},
+	{
+		"slug": "nutrex-hmb-1000",
+		"name": "Nutrex Research HMB 1000",
+		"cat": [
+			"burners-aminos"
+		],
+		"brand": "Nutrex Research",
+		"type": "hmb",
+		"badge": "120 capsules",
+		"goals": [
+			"recovery",
+			"strength"
+		],
+		"featured": false,
+		"madeToOrder": false,
+		"short": "<p>HMB helps limit muscle breakdown during hard training or dieting.</p>",
+		"desc": "<p>HMB helps limit muscle breakdown during hard training or dieting.</p><p><strong>Nutrex Research HMB 1000</strong> · 120 capsules. Sold sealed and genuine at Lionlegacy Fitness, College House, Koinange Street, with countrywide delivery.</p>",
+		"specs": "Brand: Nutrex Research\nSize: 120 capsules\nForm: Capsules\nBest for: Recovery & Hydration, Strength & Power",
+		"regular": "4000",
+		"upsells": [
+			"applied-nutrition-creatine-monohydrate",
+			"rule-1-whey-protein",
+			"lionlegacy-steel-water-bottle"
+		]
+	},
+	{
+		"slug": "allmax-beta-alanine",
+		"name": "Allmax Essentials Beta-Alanine",
+		"cat": [
+			"burners-aminos"
+		],
+		"brand": "Allmax",
+		"type": "betaalanine",
+		"badge": "400 g · 125 servings",
+		"goals": [
+			"endurance",
+			"strength"
+		],
+		"featured": false,
+		"madeToOrder": false,
+		"short": "<p>Beta-alanine buffers muscle fatigue, so you can keep going on high-rep sets and intervals.</p>",
+		"desc": "<p>Beta-alanine buffers muscle fatigue, so you can keep going on high-rep sets and intervals.</p><p><strong>Allmax Essentials Beta-Alanine</strong> · 400 g · 125 servings. Sold sealed and genuine at Lionlegacy Fitness, College House, Koinange Street, with countrywide delivery.</p>",
+		"specs": "Brand: Allmax\nSize: 400 g · 125 servings\nForm: Powder\nBest for: Endurance & Energy, Strength & Power",
+		"regular": "4700",
+		"upsells": [
+			"applied-nutrition-creatine-monohydrate",
+			"rule-1-whey-protein",
+			"lionlegacy-steel-water-bottle"
+		]
+	},
+	{
+		"slug": "animal-pak",
+		"name": "Animal Pak Ultimate Foundation",
+		"cat": [
+			"vitamins-health"
+		],
+		"brand": "Animal",
+		"type": "multi",
+		"badge": "44 packs",
+		"goals": [
+			"wellness"
+		],
+		"featured": true,
+		"madeToOrder": false,
+		"short": "<p>A complete daily vitamin and mineral pack for people who train hard.</p>",
+		"desc": "<p>A complete daily vitamin and mineral pack for people who train hard.</p><p><strong>Animal Pak Ultimate Foundation</strong> · 44 packs. Sold sealed and genuine at Lionlegacy Fitness, College House, Koinange Street, with countrywide delivery.</p>",
+		"specs": "Brand: Animal\nSize: 44 packs\nForm: Packs\nBest for: Health & Wellness",
+		"regular": "7000",
+		"upsells": [
+			"nutrend-zmb",
+			"natures-truth-fish-oil",
+			"gat-sport-vitamin-d3-k2"
+		]
+	},
+	{
+		"slug": "muscletech-platinum-multivitamin",
+		"name": "MuscleTech Platinum Multivitamin",
+		"cat": [
+			"vitamins-health"
+		],
+		"brand": "MuscleTech",
+		"type": "multi",
+		"badge": "90 tablets",
+		"goals": [
+			"wellness"
+		],
+		"featured": false,
+		"madeToOrder": false,
+		"short": "<p>A complete daily vitamin and mineral pack for people who train hard.</p>",
+		"desc": "<p>A complete daily vitamin and mineral pack for people who train hard.</p><p><strong>MuscleTech Platinum Multivitamin</strong> · 90 tablets. Sold sealed and genuine at Lionlegacy Fitness, College House, Koinange Street, with countrywide delivery.</p>",
+		"specs": "Brand: MuscleTech\nSize: 90 tablets\nForm: Tablets\nBest for: Health & Wellness",
+		"regular": "4300",
+		"upsells": [
+			"animal-pak",
+			"nutrend-zmb",
+			"natures-truth-fish-oil"
+		]
+	},
+	{
+		"slug": "nutrex-vitadapt-complete",
+		"name": "Nutrex Research Vitadapt Complete",
+		"cat": [
+			"vitamins-health"
+		],
+		"brand": "Nutrex Research",
+		"type": "multi",
+		"badge": "90 capsules",
+		"goals": [
+			"wellness"
+		],
+		"featured": false,
+		"madeToOrder": false,
+		"short": "<p>A complete daily vitamin and mineral pack for people who train hard.</p>",
+		"desc": "<p>A complete daily vitamin and mineral pack for people who train hard.</p><p><strong>Nutrex Research Vitadapt Complete</strong> · 90 capsules. Sold sealed and genuine at Lionlegacy Fitness, College House, Koinange Street, with countrywide delivery.</p>",
+		"specs": "Brand: Nutrex Research\nSize: 90 capsules\nForm: Capsules\nBest for: Health & Wellness",
+		"regular": "4500",
+		"upsells": [
+			"animal-pak",
+			"nutrend-zmb",
+			"natures-truth-fish-oil"
+		]
+	},
+	{
+		"slug": "nutrend-zmb",
+		"name": "Nutrend ZMB Zinc, Magnesium & Vitamin B6",
+		"cat": [
+			"vitamins-health"
+		],
+		"brand": "Nutrend",
+		"type": "vitamin",
+		"badge": "60 capsules · 60 servings",
+		"goals": [
+			"wellness"
+		],
+		"featured": false,
+		"madeToOrder": false,
+		"short": "<p>Daily vitamin and wellness support.</p>",
+		"desc": "<p>Daily vitamin and wellness support.</p><p><strong>Nutrend ZMB Zinc, Magnesium &amp; Vitamin B6</strong> · 60 capsules · 60 servings. Sold sealed and genuine at Lionlegacy Fitness, College House, Koinange Street, with countrywide delivery.</p>",
+		"specs": "Brand: Nutrend\nSize: 60 capsules · 60 servings\nForm: Capsules\nBest for: Health & Wellness",
+		"regular": "3800",
+		"upsells": [
+			"animal-pak",
+			"natures-truth-fish-oil",
+			"gat-sport-vitamin-d3-k2"
+		]
+	},
+	{
+		"slug": "myvitamins-vitamin-b",
+		"name": "Myvitamins Essentials Vitamin B",
+		"cat": [
+			"vitamins-health"
+		],
+		"brand": "Myvitamins",
+		"type": "vitamin",
+		"badge": "120 tablets",
+		"goals": [
+			"wellness"
+		],
+		"featured": false,
+		"madeToOrder": false,
+		"short": "<p>Daily vitamin and wellness support.</p>",
+		"desc": "<p>Daily vitamin and wellness support.</p><p><strong>Myvitamins Essentials Vitamin B</strong> · 120 tablets. Sold sealed and genuine at Lionlegacy Fitness, College House, Koinange Street, with countrywide delivery.</p>",
+		"specs": "Brand: Myvitamins\nSize: 120 tablets\nForm: Tablets\nBest for: Health & Wellness",
+		"regular": "4000",
+		"upsells": [
+			"animal-pak",
+			"nutrend-zmb",
+			"natures-truth-fish-oil"
+		]
+	},
+	{
+		"slug": "swanson-super-stress-b-complex",
+		"name": "Swanson Super Stress B-Complex with Vitamin C",
+		"cat": [
+			"vitamins-health"
+		],
+		"brand": "Swanson",
+		"type": "vitamin",
+		"badge": "100 capsules",
+		"goals": [
+			"wellness"
+		],
+		"featured": false,
+		"madeToOrder": false,
+		"short": "<p>Daily vitamin and wellness support.</p>",
+		"desc": "<p>Daily vitamin and wellness support.</p><p><strong>Swanson Super Stress B-Complex with Vitamin C</strong> · 100 capsules. Sold sealed and genuine at Lionlegacy Fitness, College House, Koinange Street, with countrywide delivery.</p>",
+		"specs": "Brand: Swanson\nSize: 100 capsules\nForm: Capsules\nBest for: Health & Wellness",
+		"regular": "4200",
+		"upsells": [
+			"animal-pak",
+			"nutrend-zmb",
+			"natures-truth-fish-oil"
+		]
+	},
+	{
+		"slug": "gat-sport-vitamin-d3-k2",
+		"name": "GAT Sport Vitamin D3 + K2 Essentials",
+		"cat": [
+			"vitamins-health"
+		],
+		"brand": "GAT Sport",
+		"type": "vitamin",
+		"badge": "60 capsules",
+		"goals": [
+			"wellness"
+		],
+		"featured": false,
+		"madeToOrder": false,
+		"short": "<p>Daily vitamin and wellness support.</p>",
+		"desc": "<p>Daily vitamin and wellness support.</p><p><strong>GAT Sport Vitamin D3 + K2 Essentials</strong> · 60 capsules. Sold sealed and genuine at Lionlegacy Fitness, College House, Koinange Street, with countrywide delivery.</p>",
+		"specs": "Brand: GAT Sport\nSize: 60 capsules\nForm: Capsules\nBest for: Health & Wellness",
+		"regular": "4700",
+		"upsells": [
+			"animal-pak",
+			"nutrend-zmb",
+			"natures-truth-fish-oil"
+		]
+	},
+	{
+		"slug": "nutrend-vitamins-d3-k2",
+		"name": "Nutrend Vitamins D3 + K2",
+		"cat": [
+			"vitamins-health"
+		],
+		"brand": "Nutrend",
+		"type": "vitamin",
+		"badge": "90 capsules · 90 servings",
+		"goals": [
+			"wellness"
+		],
+		"featured": false,
+		"madeToOrder": false,
+		"short": "<p>Daily vitamin and wellness support.</p>",
+		"desc": "<p>Daily vitamin and wellness support.</p><p><strong>Nutrend Vitamins D3 + K2</strong> · 90 capsules · 90 servings. Sold sealed and genuine at Lionlegacy Fitness, College House, Koinange Street, with countrywide delivery.</p>",
+		"specs": "Brand: Nutrend\nSize: 90 capsules · 90 servings\nForm: Capsules\nBest for: Health & Wellness",
+		"regular": "3600",
+		"upsells": [
+			"animal-pak",
+			"nutrend-zmb",
+			"natures-truth-fish-oil"
+		]
+	},
+	{
+		"slug": "natural-factors-sunvitamin-d3",
+		"name": "Natural Factors SunVitamin D3 1000 IU",
+		"cat": [
+			"vitamins-health"
+		],
+		"brand": "Natural Factors",
+		"type": "vitamin",
+		"badge": "90 tablets",
+		"goals": [
+			"wellness"
+		],
+		"featured": false,
+		"madeToOrder": false,
+		"short": "<p>Daily vitamin and wellness support.</p>",
+		"desc": "<p>Daily vitamin and wellness support.</p><p><strong>Natural Factors SunVitamin D3 1000 IU</strong> · 90 tablets. Sold sealed and genuine at Lionlegacy Fitness, College House, Koinange Street, with countrywide delivery.</p>",
+		"specs": "Brand: Natural Factors\nSize: 90 tablets\nForm: Tablets\nBest for: Health & Wellness",
+		"regular": "3000",
+		"upsells": [
+			"animal-pak",
+			"nutrend-zmb",
+			"natures-truth-fish-oil"
+		]
+	},
+	{
+		"slug": "natures-truth-fish-oil",
+		"name": "Nature's Truth Natural Lemon Flavor Fish Oil",
+		"cat": [
+			"vitamins-health"
+		],
+		"brand": "Nature's Truth",
+		"type": "vitamin",
+		"badge": "125 softgels",
+		"goals": [
+			"wellness"
+		],
+		"featured": false,
+		"madeToOrder": false,
+		"short": "<p>Daily vitamin and wellness support.</p>",
+		"desc": "<p>Daily vitamin and wellness support.</p><p><strong>Nature's Truth Natural Lemon Flavor Fish Oil</strong> · 125 softgels. Sold sealed and genuine at Lionlegacy Fitness, College House, Koinange Street, with countrywide delivery.</p>",
+		"specs": "Brand: Nature's Truth\nSize: 125 softgels\nForm: Capsules\nBest for: Health & Wellness",
+		"regular": "5500",
+		"upsells": [
+			"animal-pak",
+			"nutrend-zmb",
+			"gat-sport-vitamin-d3-k2"
+		]
+	},
+	{
+		"slug": "swanson-probiotic",
+		"name": "Swanson Probiotic for Daily Wellness",
+		"cat": [
+			"vitamins-health"
+		],
+		"brand": "Swanson",
+		"type": "vitamin",
+		"badge": "120 capsules",
+		"goals": [
+			"wellness"
+		],
+		"featured": false,
+		"madeToOrder": false,
+		"short": "<p>Daily vitamin and wellness support.</p>",
+		"desc": "<p>Daily vitamin and wellness support.</p><p><strong>Swanson Probiotic for Daily Wellness</strong> · 120 capsules. Sold sealed and genuine at Lionlegacy Fitness, College House, Koinange Street, with countrywide delivery.</p>",
+		"specs": "Brand: Swanson\nSize: 120 capsules\nForm: Capsules\nBest for: Health & Wellness",
+		"regular": "3700",
+		"upsells": [
+			"animal-pak",
+			"nutrend-zmb",
+			"natures-truth-fish-oil"
+		]
+	},
+	{
+		"slug": "nutrend-curcumin-bioperine-d",
+		"name": "Nutrend Curcumin + Bioperine + Vitamin D",
+		"cat": [
+			"vitamins-health"
+		],
+		"brand": "Nutrend",
+		"type": "vitamin",
+		"badge": "60 capsules",
+		"goals": [
+			"wellness"
+		],
+		"featured": false,
+		"madeToOrder": false,
+		"short": "<p>Daily vitamin and wellness support.</p>",
+		"desc": "<p>Daily vitamin and wellness support.</p><p><strong>Nutrend Curcumin + Bioperine + Vitamin D</strong> · 60 capsules. Sold sealed and genuine at Lionlegacy Fitness, College House, Koinange Street, with countrywide delivery.</p>",
+		"specs": "Brand: Nutrend\nSize: 60 capsules\nForm: Capsules\nBest for: Health & Wellness",
+		"regular": "4000",
+		"upsells": [
+			"animal-pak",
+			"nutrend-zmb",
+			"natures-truth-fish-oil"
+		]
+	},
+	{
+		"slug": "swanson-moringa-oleifera",
+		"name": "Swanson Full Spectrum Moringa Oleifera",
+		"cat": [
+			"vitamins-health"
+		],
+		"brand": "Swanson",
+		"type": "herbal",
+		"badge": "60 capsules",
+		"goals": [
+			"wellness"
+		],
+		"featured": false,
+		"madeToOrder": false,
+		"short": "<p>A traditional herbal supplement for daily energy and wellbeing.</p>",
+		"desc": "<p>A traditional herbal supplement for daily energy and wellbeing.</p><p><strong>Swanson Full Spectrum Moringa Oleifera</strong> · 60 capsules. Sold sealed and genuine at Lionlegacy Fitness, College House, Koinange Street, with countrywide delivery.</p>",
+		"specs": "Brand: Swanson\nSize: 60 capsules\nForm: Capsules\nBest for: Health & Wellness",
+		"regular": "3000",
+		"upsells": [
+			"animal-pak",
+			"nutrend-zmb",
+			"natures-truth-fish-oil"
+		]
+	},
+	{
+		"slug": "natures-truth-ashwagandha",
+		"name": "Nature's Truth Ashwagandha Root",
+		"cat": [
+			"vitamins-health"
+		],
+		"brand": "Nature's Truth",
+		"type": "herbal",
+		"badge": "90 quick-release capsules",
+		"goals": [
+			"wellness"
+		],
+		"featured": false,
+		"madeToOrder": false,
+		"short": "<p>A traditional herbal supplement for daily energy and wellbeing.</p>",
+		"desc": "<p>A traditional herbal supplement for daily energy and wellbeing.</p><p><strong>Nature's Truth Ashwagandha Root</strong> · 90 quick-release capsules. Sold sealed and genuine at Lionlegacy Fitness, College House, Koinange Street, with countrywide delivery.</p>",
+		"specs": "Brand: Nature's Truth\nSize: 90 quick-release capsules\nForm: Capsules\nBest for: Health & Wellness",
+		"regular": "4000",
+		"upsells": [
+			"animal-pak",
+			"nutrend-zmb",
+			"natures-truth-fish-oil"
+		]
+	},
+	{
+		"slug": "muscle-rulz-shilajit",
+		"name": "Muscle Rulz Shilajit",
+		"cat": [
+			"vitamins-health"
+		],
+		"brand": "Muscle Rulz",
+		"type": "herbal",
+		"badge": "100 servings",
+		"goals": [
+			"wellness"
+		],
+		"featured": false,
+		"madeToOrder": false,
+		"short": "<p>A traditional herbal supplement for daily energy and wellbeing.</p>",
+		"desc": "<p>A traditional herbal supplement for daily energy and wellbeing.</p><p><strong>Muscle Rulz Shilajit</strong> · 100 servings. Sold sealed and genuine at Lionlegacy Fitness, College House, Koinange Street, with countrywide delivery.</p>",
+		"specs": "Brand: Muscle Rulz\nSize: 100 servings\nForm: Powder\nBest for: Health & Wellness",
+		"regular": "4300",
+		"upsells": [
+			"animal-pak",
+			"nutrend-zmb",
+			"natures-truth-fish-oil"
+		]
+	},
+	{
+		"slug": "bio-protection-tongkat-ali",
+		"name": "Bio Protection Tongkat Ali",
+		"cat": [
+			"vitamins-health"
+		],
+		"brand": "Bio Protection",
+		"type": "hormone",
+		"badge": "60 capsules",
+		"goals": [
+			"strength",
+			"wellness"
+		],
+		"featured": false,
+		"madeToOrder": false,
+		"short": "<p>Natural testosterone and vitality support for adult men.</p>",
+		"desc": "<p>Natural testosterone and vitality support for adult men.</p><p><strong>Bio Protection Tongkat Ali</strong> · 60 capsules. Sold sealed and genuine at Lionlegacy Fitness, College House, Koinange Street, with countrywide delivery.</p>",
+		"specs": "Brand: Bio Protection\nSize: 60 capsules\nForm: Capsules\nBest for: Strength & Power, Health & Wellness",
+		"regular": "4000",
+		"upsells": [
+			"animal-pak",
+			"nutrend-zmb",
+			"natures-truth-fish-oil"
+		]
+	},
+	{
+		"slug": "fit-lean-collaven",
+		"name": "Fit & Lean CollaVen",
+		"cat": [
+			"vitamins-health"
+		],
+		"brand": "Fit & Lean",
+		"type": "vitamin",
+		"badge": "60 capsules",
+		"goals": [
+			"wellness"
+		],
+		"featured": false,
+		"madeToOrder": false,
+		"short": "<p>Daily vitamin and wellness support.</p>",
+		"desc": "<p>Daily vitamin and wellness support.</p><p><strong>Fit &amp; Lean CollaVen</strong> · 60 capsules. Sold sealed and genuine at Lionlegacy Fitness, College House, Koinange Street, with countrywide delivery.</p>",
+		"specs": "Brand: Fit & Lean\nSize: 60 capsules\nForm: Capsules\nBest for: Health & Wellness",
+		"regular": "5500",
+		"upsells": [
+			"animal-pak",
+			"nutrend-zmb",
+			"natures-truth-fish-oil"
+		]
+	},
+	{
+		"slug": "laperva-enjoy-the-dream-melatonin",
+		"name": "Laperva Enjoy The Dream Melatonin Gummies",
+		"cat": [
+			"vitamins-health"
+		],
+		"brand": "Laperva",
+		"type": "sleep",
+		"badge": "60 veggie gummies",
+		"goals": [
+			"recovery",
+			"wellness"
+		],
+		"featured": false,
+		"madeToOrder": false,
+		"short": "<p>Melatonin gummies to help you fall asleep and recover overnight.</p>",
+		"desc": "<p>Melatonin gummies to help you fall asleep and recover overnight.</p><p><strong>Laperva Enjoy The Dream Melatonin Gummies</strong> · 60 veggie gummies. Sold sealed and genuine at Lionlegacy Fitness, College House, Koinange Street, with countrywide delivery.</p>",
+		"specs": "Brand: Laperva\nSize: 60 veggie gummies\nForm: Gummies\nBest for: Recovery & Hydration, Health & Wellness",
+		"regular": "3300",
+		"upsells": [
+			"animal-pak",
+			"nutrend-zmb",
+			"natures-truth-fish-oil"
+		]
+	},
+	{
+		"slug": "applied-nutrition-test-x",
+		"name": "Applied Nutrition Test-X Testosterone Support",
+		"cat": [
+			"vitamins-health"
+		],
+		"brand": "Applied Nutrition",
+		"type": "hormone",
+		"badge": "120 capsules · 30 servings",
+		"goals": [
+			"strength",
+			"wellness"
+		],
+		"featured": false,
+		"madeToOrder": false,
+		"short": "<p>Natural testosterone and vitality support for adult men.</p>",
+		"desc": "<p>Natural testosterone and vitality support for adult men.</p><p><strong>Applied Nutrition Test-X Testosterone Support</strong> · 120 capsules · 30 servings. Sold sealed and genuine at Lionlegacy Fitness, College House, Koinange Street, with countrywide delivery.</p>",
+		"specs": "Brand: Applied Nutrition\nSize: 120 capsules · 30 servings\nForm: Capsules\nBest for: Strength & Power, Health & Wellness",
+		"regular": "5500",
+		"upsells": [
+			"animal-pak",
+			"nutrend-zmb",
+			"natures-truth-fish-oil"
+		]
+	},
+	{
+		"slug": "allmax-testofx-sport",
+		"name": "Allmax TestoFX Sport",
+		"cat": [
+			"vitamins-health"
+		],
+		"brand": "Allmax",
+		"type": "hormone",
+		"badge": "80 capsules",
+		"goals": [
+			"strength",
+			"wellness"
+		],
+		"featured": false,
+		"madeToOrder": false,
+		"short": "<p>Natural testosterone and vitality support for adult men.</p>",
+		"desc": "<p>Natural testosterone and vitality support for adult men.</p><p><strong>Allmax TestoFX Sport</strong> · 80 capsules. Sold sealed and genuine at Lionlegacy Fitness, College House, Koinange Street, with countrywide delivery.</p>",
+		"specs": "Brand: Allmax\nSize: 80 capsules\nForm: Capsules\nBest for: Strength & Power, Health & Wellness",
+		"regular": "5200",
+		"upsells": [
+			"animal-pak",
+			"nutrend-zmb",
+			"natures-truth-fish-oil"
+		]
+	},
+	{
+		"slug": "enhanced-labs-top-t",
+		"name": "Enhanced Labs Top T",
+		"cat": [
+			"vitamins-health"
+		],
+		"brand": "Enhanced Labs",
+		"type": "hormone",
+		"badge": "120 capsules",
+		"goals": [
+			"strength",
+			"wellness"
+		],
+		"featured": false,
+		"madeToOrder": false,
+		"short": "<p>Natural testosterone and vitality support for adult men.</p>",
+		"desc": "<p>Natural testosterone and vitality support for adult men.</p><p><strong>Enhanced Labs Top T</strong> · 120 capsules. Sold sealed and genuine at Lionlegacy Fitness, College House, Koinange Street, with countrywide delivery.</p>",
+		"specs": "Brand: Enhanced Labs\nSize: 120 capsules\nForm: Capsules\nBest for: Strength & Power, Health & Wellness",
+		"regular": "5300",
+		"upsells": [
+			"animal-pak",
+			"nutrend-zmb",
+			"natures-truth-fish-oil"
+		]
+	},
+	{
+		"slug": "bodybuilder-mens-bomb",
+		"name": "Body Builder Men's Bomb",
+		"cat": [
+			"vitamins-health"
+		],
+		"brand": "Body Builder",
+		"type": "hormone",
+		"badge": "60 tablets",
+		"goals": [
+			"strength",
+			"wellness"
+		],
+		"featured": false,
+		"madeToOrder": false,
+		"short": "<p>Natural testosterone and vitality support for adult men.</p>",
+		"desc": "<p>Natural testosterone and vitality support for adult men.</p><p><strong>Body Builder Men's Bomb</strong> · 60 tablets. Sold sealed and genuine at Lionlegacy Fitness, College House, Koinange Street, with countrywide delivery.</p>",
+		"specs": "Brand: Body Builder\nSize: 60 tablets\nForm: Tablets\nBest for: Strength & Power, Health & Wellness",
+		"regular": "4000",
+		"upsells": [
+			"animal-pak",
+			"nutrend-zmb",
+			"natures-truth-fish-oil"
+		]
+	},
+	{
+		"slug": "animal-m-stak",
+		"name": "Animal M-Stak Non-Hormonal Accelerator",
+		"cat": [
+			"vitamins-health"
+		],
+		"brand": "Animal",
+		"type": "hormone",
+		"badge": "21 packs",
+		"goals": [
+			"strength",
+			"wellness"
+		],
+		"featured": false,
+		"madeToOrder": false,
+		"short": "<p>Natural testosterone and vitality support for adult men.</p>",
+		"desc": "<p>Natural testosterone and vitality support for adult men.</p><p><strong>Animal M-Stak Non-Hormonal Accelerator</strong> · 21 packs. Sold sealed and genuine at Lionlegacy Fitness, College House, Koinange Street, with countrywide delivery.</p>",
+		"specs": "Brand: Animal\nSize: 21 packs\nForm: Packs\nBest for: Strength & Power, Health & Wellness",
+		"regular": "7200",
+		"upsells": [
+			"animal-pak",
+			"nutrend-zmb",
+			"natures-truth-fish-oil"
+		]
+	},
+	{
+		"slug": "enhanced-labs-slin",
+		"name": "Enhanced Labs Slin",
+		"cat": [
+			"vitamins-health"
+		],
+		"brand": "Enhanced Labs",
+		"type": "glucose",
+		"badge": "60 capsules",
+		"goals": [
+			"muscle-gain"
+		],
+		"featured": false,
+		"madeToOrder": false,
+		"short": "<p>Nutrient partitioning support, to help your body make use of the carbs you eat.</p>",
+		"desc": "<p>Nutrient partitioning support, to help your body make use of the carbs you eat.</p><p><strong>Enhanced Labs Slin</strong> · 60 capsules. Sold sealed and genuine at Lionlegacy Fitness, College House, Koinange Street, with countrywide delivery.</p>",
+		"specs": "Brand: Enhanced Labs\nSize: 60 capsules\nForm: Capsules\nBest for: Muscle Gain",
+		"regular": "5000",
+		"upsells": [
+			"animal-pak",
+			"nutrend-zmb",
+			"natures-truth-fish-oil"
+		]
+	},
+	{
+		"slug": "metal-high-bar-parallettes",
+		"name": "Metal High Bar Calisthenics Parallettes",
+		"cat": [
+			"calisthenics-gear"
+		],
+		"brand": "Lionlegacy Fitness",
+		"type": "calisthenics",
+		"badge": "Made to order · 3–5 days",
+		"goals": [
+			"calisthenics",
+			"strength"
+		],
+		"featured": true,
+		"madeToOrder": true,
+		"short": "<p>Built by Lionlegacy Fitness for calisthenics skills and strength work at home, in the park or at the gym.</p>",
+		"desc": "<p>Built by Lionlegacy Fitness for calisthenics skills and strength work at home, in the park or at the gym.</p><p>Please note that it takes us 3-5 days to finish an order, we pay attention to every minute detail to ensure a premium finish. You Can request any colour that you wish us to paint them. \n\nPremium Quality. Built to Last.\n\nBuild your body with Calisthenics.\n\nExercises you can perform on these Parallettes\n\nPlanche\n\nHandstand\n\nPike Pushups\n\n- L-Sit\n\nV- Sit\n\n90° Hold\n\n- Elbow Lever\n\nL-sit to shoulder stand</p><p><strong>Metal High Bar Calisthenics Parallettes</strong> · Made to order · 3–5 days. Sold sealed and genuine at Lionlegacy Fitness, College House, Koinange Street, with countrywide delivery.</p>",
+		"specs": "Brand: Lionlegacy Fitness\nSize: Made to order · 3–5 days\nForm: Ready to drink\nBest for: Home & Calisthenics, Strength & Power\nLead time: Made to order, 3–5 days (dip bars 5–7 days)",
+		"regular": "7500",
+		"upsells": [
+			"pure-leather-gym-gloves",
+			"hardwood-calisthenics-parallets",
+			"premium-handmade-dip-bars"
+		]
+	},
+	{
+		"slug": "premium-metal-parallettes",
+		"name": "Premium Metal Parallettes",
+		"cat": [
+			"calisthenics-gear"
+		],
+		"brand": "Lionlegacy Fitness",
+		"type": "calisthenics",
+		"badge": "Made to order · 3–5 days",
+		"goals": [
+			"calisthenics",
+			"strength"
+		],
+		"featured": false,
+		"madeToOrder": true,
+		"short": "<p>Built by Lionlegacy Fitness for calisthenics skills and strength work at home, in the park or at the gym.</p>",
+		"desc": "<p>Built by Lionlegacy Fitness for calisthenics skills and strength work at home, in the park or at the gym.</p><p>Premium Welding, Premium Painting. Get your own pair of these metal Parallettes and level up your Calisthenics skills.\n40MM diameter handle. \nPlease note that we make them on order and it takes 3-5 days to complete one.</p><p><strong>Premium Metal Parallettes</strong> · Made to order · 3–5 days. Sold sealed and genuine at Lionlegacy Fitness, College House, Koinange Street, with countrywide delivery.</p>",
+		"specs": "Brand: Lionlegacy Fitness\nSize: Made to order · 3–5 days\nBest for: Home & Calisthenics, Strength & Power\nLead time: Made to order, 3–5 days (dip bars 5–7 days)",
+		"regular": "9000",
+		"upsells": [
+			"pure-leather-gym-gloves",
+			"hardwood-calisthenics-parallets",
+			"premium-handmade-dip-bars"
+		]
+	},
+	{
+		"slug": "hardwood-calisthenics-parallets",
+		"name": "Premium Handmade Hardwood Parallets",
+		"cat": [
+			"calisthenics-gear"
+		],
+		"brand": "Lionlegacy Fitness",
+		"type": "calisthenics",
+		"badge": "40 mm grips · rubber feet",
+		"goals": [
+			"calisthenics",
+			"strength"
+		],
+		"featured": false,
+		"madeToOrder": false,
+		"short": "<p>Built by Lionlegacy Fitness for calisthenics skills and strength work at home, in the park or at the gym.</p>",
+		"desc": "<p>Built by Lionlegacy Fitness for calisthenics skills and strength work at home, in the park or at the gym.</p><p>Parallets are game-changers for calisthenics — better range of motion, reduced wrist strain, and serious gains in strength.\n\n40MM Handle Grips and 40 MM thick widths. Rubber Feet so you can train on any surface.</p><p><strong>Premium Handmade Hardwood Parallets</strong> · 40 mm grips · rubber feet. Sold sealed and genuine at Lionlegacy Fitness, College House, Koinange Street, with countrywide delivery.</p>",
+		"specs": "Brand: Lionlegacy Fitness\nSize: 40 mm grips · rubber feet\nForm: Ready to drink\nBest for: Home & Calisthenics, Strength & Power",
+		"regular": "6000",
+		"upsells": [
+			"pure-leather-gym-gloves",
+			"premium-handmade-dip-bars",
+			"lionlegacy-steel-water-bottle"
+		]
+	},
+	{
+		"slug": "premium-handmade-dip-bars",
+		"name": "Premium Handmade Dip Bars",
+		"cat": [
+			"calisthenics-gear"
+		],
+		"brand": "Lionlegacy Fitness",
+		"type": "calisthenics",
+		"badge": "110 cm · made to order",
+		"goals": [
+			"calisthenics",
+			"strength"
+		],
+		"featured": false,
+		"madeToOrder": true,
+		"short": "<p>Built by Lionlegacy Fitness for calisthenics skills and strength work at home, in the park or at the gym.</p>",
+		"desc": "<p>Built by Lionlegacy Fitness for calisthenics skills and strength work at home, in the park or at the gym.</p><p>Made on order. Order takes 5-7 days to complete. Choose the color of your choice. 110cm height.</p><p><strong>Premium Handmade Dip Bars</strong> · 110 cm · made to order. Sold sealed and genuine at Lionlegacy Fitness, College House, Koinange Street, with countrywide delivery.</p>",
+		"specs": "Brand: Lionlegacy Fitness\nSize: 110 cm · made to order\nBest for: Home & Calisthenics, Strength & Power\nLead time: Made to order, 3–5 days (dip bars 5–7 days)",
+		"regular": "14500",
+		"upsells": [
+			"pure-leather-gym-gloves",
+			"hardwood-calisthenics-parallets",
+			"lionlegacy-steel-water-bottle"
+		]
+	},
+	{
+		"slug": "leather-lifting-belt",
+		"name": "Leather Gym Lifting Belt",
+		"cat": [
+			"calisthenics-gear"
+		],
+		"brand": "Lionlegacy Fitness",
+		"type": "belt",
+		"badge": "Pure leather · all sizes",
+		"goals": [
+			"strength"
+		],
+		"featured": false,
+		"madeToOrder": false,
+		"short": "<p>A pure leather lifting belt for support on heavy squats and deadlifts.</p>",
+		"desc": "<p>A pure leather lifting belt for support on heavy squats and deadlifts.</p><p><strong>Leather Gym Lifting Belt</strong> · Pure leather · all sizes. Sold sealed and genuine at Lionlegacy Fitness, College House, Koinange Street, with countrywide delivery.</p>",
+		"specs": "Brand: Lionlegacy Fitness\nSize: Pure leather · all sizes\nBest for: Strength & Power",
+		"regular": "5000",
+		"upsells": [
+			"deadlift-straps",
+			"bodybuilder-wrist-wraps",
+			"gym-leader-knee-sleeves"
+		]
+	},
+	{
+		"slug": "bodybuilder-wrist-wraps",
+		"name": "Body Builder Wrist Wraps",
+		"cat": [
+			"calisthenics-gear"
+		],
+		"brand": "Body Builder",
+		"type": "wraps",
+		"badge": "Pair",
+		"goals": [
+			"strength"
+		],
+		"featured": false,
+		"madeToOrder": false,
+		"short": "<p>Wrist wraps for support on heavy presses and push-ups.</p>",
+		"desc": "<p>Wrist wraps for support on heavy presses and push-ups.</p><p><strong>Body Builder Wrist Wraps</strong> · Pair. Sold sealed and genuine at Lionlegacy Fitness, College House, Koinange Street, with countrywide delivery.</p>",
+		"specs": "Brand: Body Builder\nSize: Pair\nBest for: Strength & Power",
+		"regular": "3400",
+		"upsells": [
+			"leather-lifting-belt",
+			"deadlift-straps",
+			"gym-leader-knee-sleeves"
+		]
+	},
+	{
+		"slug": "deadlift-straps",
+		"name": "Deadlift Straps",
+		"cat": [
+			"calisthenics-gear"
+		],
+		"brand": "Lionlegacy Fitness",
+		"type": "straps",
+		"badge": "Pair",
+		"goals": [
+			"strength"
+		],
+		"featured": false,
+		"madeToOrder": false,
+		"short": "<p>Lifting straps so your grip doesn't give out before your back on heavy pulls.</p>",
+		"desc": "<p>Lifting straps so your grip doesn't give out before your back on heavy pulls.</p><p><strong>Deadlift Straps</strong> · Pair. Sold sealed and genuine at Lionlegacy Fitness, College House, Koinange Street, with countrywide delivery.</p>",
+		"specs": "Brand: Lionlegacy Fitness\nSize: Pair\nBest for: Strength & Power",
+		"regular": "1600",
+		"upsells": [
+			"leather-lifting-belt",
+			"bodybuilder-wrist-wraps",
+			"gym-leader-knee-sleeves"
+		]
+	},
+	{
+		"slug": "pure-leather-gym-gloves",
+		"name": "Pure Leather Gym Gloves",
+		"cat": [
+			"calisthenics-gear"
+		],
+		"brand": "Lionlegacy Fitness",
+		"type": "gloves",
+		"badge": "Medium & Large",
+		"goals": [
+			"strength",
+			"calisthenics"
+		],
+		"featured": false,
+		"madeToOrder": false,
+		"short": "<p>Leather gym gloves for grip and to protect your palms.</p>",
+		"desc": "<p>Leather gym gloves for grip and to protect your palms.</p><p><strong>Pure Leather Gym Gloves</strong> · Medium &amp; Large. Sold sealed and genuine at Lionlegacy Fitness, College House, Koinange Street, with countrywide delivery.</p>",
+		"specs": "Brand: Lionlegacy Fitness\nSize: Medium & Large\nBest for: Strength & Power, Home & Calisthenics",
+		"upsells": [
+			"hardwood-calisthenics-parallets",
+			"premium-handmade-dip-bars",
+			"lionlegacy-steel-water-bottle"
+		],
+		"attributes": [
+			{
+				"name": "Size",
+				"options": [
+					"Medium",
+					"Large"
+				]
+			}
+		],
+		"variations": [
+			{
+				"attrs": {
+					"Size": "Medium"
+				},
+				"regular": 2400,
+				"price": 2400,
+				"img": 0
+			},
+			{
+				"attrs": {
+					"Size": "Large"
+				},
+				"regular": 2400,
+				"price": 2400,
+				"img": 0
+			}
+		]
+	},
+	{
+		"slug": "gym-leader-knee-sleeves",
+		"name": "Gym Leader Fitness Knee Sleeves",
+		"cat": [
+			"calisthenics-gear"
+		],
+		"brand": "Gym Leader",
+		"type": "sleeves",
+		"badge": "Pair",
+		"goals": [
+			"strength"
+		],
+		"featured": false,
+		"madeToOrder": false,
+		"short": "<p>Knee sleeves for warmth and support on squats and leg day.</p>",
+		"desc": "<p>Knee sleeves for warmth and support on squats and leg day.</p><p><strong>Gym Leader Fitness Knee Sleeves</strong> · Pair. Sold sealed and genuine at Lionlegacy Fitness, College House, Koinange Street, with countrywide delivery.</p>",
+		"specs": "Brand: Gym Leader\nSize: Pair\nBest for: Strength & Power",
+		"regular": "3700",
+		"upsells": [
+			"leather-lifting-belt",
+			"deadlift-straps",
+			"bodybuilder-wrist-wraps"
+		]
+	},
+	{
+		"slug": "lionlegacy-steel-water-bottle",
+		"name": "Lionlegacy Fitness Steel Water Bottle",
+		"cat": [
+			"accessories"
+		],
+		"brand": "Lionlegacy Fitness",
+		"type": "bottle",
+		"badge": "500 ml & 750 ml designs",
+		"goals": [
+			"calisthenics"
+		],
+		"featured": true,
+		"madeToOrder": false,
+		"short": "<p>A Lionlegacy Fitness stainless steel water bottle, engraved with our lion.</p>",
+		"desc": "<p>A Lionlegacy Fitness stainless steel water bottle, engraved with our lion.</p><p><strong>Lionlegacy Fitness Steel Water Bottle</strong> · 500 ml &amp; 750 ml designs. Sold sealed and genuine at Lionlegacy Fitness, College House, Koinange Street, with countrywide delivery.</p>",
+		"specs": "Brand: Lionlegacy Fitness\nSize: 500 ml & 750 ml designs\nBest for: Home & Calisthenics",
+		"upsells": [
+			"applied-nutrition-creatine-monohydrate",
+			"rule-1-whey-protein",
+			"cellucor-c4-original"
+		],
+		"attributes": [
+			{
+				"name": "Design",
+				"options": [
+					"Engineering – 750 ml",
+					"Black Engineering – 750 ml",
+					"Bible & Floral – 750 ml",
+					"Architecture & Floral – 500 ml",
+					"Comic – 500 ml"
+				]
+			}
+		],
+		"variations": [
+			{
+				"attrs": {
+					"Design": "Engineering – 750 ml"
+				},
+				"regular": 2300,
+				"price": 2300,
+				"img": 0
+			},
+			{
+				"attrs": {
+					"Design": "Black Engineering – 750 ml"
+				},
+				"regular": 2300,
+				"price": 2300,
+				"img": 2
+			},
+			{
+				"attrs": {
+					"Design": "Bible & Floral – 750 ml"
+				},
+				"regular": 2300,
+				"price": 2300,
+				"img": 4
+			},
+			{
+				"attrs": {
+					"Design": "Architecture & Floral – 500 ml"
+				},
+				"regular": 2000,
+				"price": 2000,
+				"img": 6
+			},
+			{
+				"attrs": {
+					"Design": "Comic – 500 ml"
+				},
+				"regular": 2000,
+				"price": 2000,
+				"img": 8
+			}
+		]
+	},
+	{
+		"slug": "bodybuilder-shaker-bottle",
+		"name": "Body Builder Shaker Bottle",
+		"cat": [
+			"accessories"
+		],
+		"brand": "Body Builder",
+		"type": "shaker",
+		"badge": "Shaker",
+		"goals": [],
+		"featured": false,
+		"madeToOrder": false,
+		"short": "<p>A shaker bottle for lump-free protein and pre-workout.</p>",
+		"desc": "<p>A shaker bottle for lump-free protein and pre-workout.</p><p><strong>Body Builder Shaker Bottle</strong> · Shaker. Sold sealed and genuine at Lionlegacy Fitness, College House, Koinange Street, with countrywide delivery.</p>",
+		"specs": "Brand: Body Builder\nSize: Shaker",
+		"regular": "3000",
+		"upsells": [
+			"applied-nutrition-creatine-monohydrate",
+			"rule-1-whey-protein",
+			"cellucor-c4-original"
+		]
+	},
+	{
+		"slug": "powerade-shaker-bottle",
+		"name": "Powerade Shaker Bottle",
+		"cat": [
+			"accessories"
+		],
+		"brand": "Powerade",
+		"type": "shaker",
+		"badge": "Shaker",
+		"goals": [],
+		"featured": false,
+		"madeToOrder": false,
+		"short": "<p>A shaker bottle for lump-free protein and pre-workout.</p>",
+		"desc": "<p>A shaker bottle for lump-free protein and pre-workout.</p><p><strong>Powerade Shaker Bottle</strong> · Shaker. Sold sealed and genuine at Lionlegacy Fitness, College House, Koinange Street, with countrywide delivery.</p>",
+		"specs": "Brand: Powerade\nSize: Shaker",
+		"regular": "1500",
+		"upsells": [
+			"applied-nutrition-creatine-monohydrate",
+			"rule-1-whey-protein",
+			"cellucor-c4-original"
+		]
+	}
+]
